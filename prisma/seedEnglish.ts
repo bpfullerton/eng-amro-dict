@@ -135,6 +135,7 @@ async function main() {
         }
     }
     console.log("Seeding complete");
+    await prisma.$disconnect();
 }
 
 main()

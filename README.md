@@ -114,16 +114,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Follow these steps to run the project locally.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
-
 
 1. Clone the repo
    ```sh
@@ -141,13 +132,42 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 
-#### Optional API Information
-The only third-party API this app uses is the Merriam-Webster Collegiate Dictionary API, used for seeding the database and establishing connections between Amro words and English words. The English word database was initially seeded upon publishing this app, so future API requests will only be necessary when updates are needed to the database. **If you would like to use the API and make changes/contribute to the database, please contact me first.** Here are instructions for setting up the API, which you should do along with installation.
+### API & Database Information
+
+The only third-party API this app uses is the Merriam-Webster Collegiate Dictionary API, used for seeding the database and establishing connections between Amro words and English words. The English word database was initially seeded upon publishing this app, so future API requests will only be necessary when updates are needed to the database. **If you would like to make changes/contribute to the database, please contact me first.** Here are instructions for setting up the API, which you should do along with installation.
 1. Get a free API Key at [Merriam-Webster Developer Center](https://dictionaryapi.com/register/index), selecting "Collegiate Dictionary" under "Request API Key (1)".
 2. Add your API key in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+
+#### Database Commands
+
+```sh
+npm run prisma-custom -- amro-backup
+```
+Backs up the existing Amro database to a CSV file located at `./prisma/amro.csv`
+
+```sh
+npm run prisma-custom -- seed-amro
+```
+Re-seeds the Amro database based on the `amro.csv` file.
+
+```sh
+npm run prisma-custom -- seed-english
+```
+Re-seeds the English database using data from the Merriam-Webster API. **This command requires you to have a MW API key.**
+
+```sh
+npm run prisma-custom -- relink
+```
+Re-links the English and Amro words. This is useful to run when either database is updated.
+
+```sh
+npm run prisma-custom -- reset-db
+```
+**Resets the entire database** by running all of the above commands in sequence: `amro-backup -> seed-amro -> seed-english -> relink`.
+It's best not to run this right now unless you know what you're doing - by resetting the English DB, it will remove any manually added data, including data added to the manually seeded English words. I'll fix this soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

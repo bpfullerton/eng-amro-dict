@@ -28,6 +28,8 @@ try {
 
       case 'seed-english':
         await import('./scripts/seedEnglish');
+        console.log('Seeding unmatched English phrases manually...');
+        await import('./scripts/seedEnglishManual');
         break;
 
       case 'seed-amro':

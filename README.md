@@ -155,10 +155,13 @@ The only third-party API this app uses is the Merriam-Webster Collegiate Diction
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Bug fixes on core functionality
+- [ ] Adding links
+    - [ ] *About Amro* Info Page
+    - [ ] GitHub link
+- [ ] UI Updates
+    - [ ] Updating CSS from default
+    - [ ] Allowing users to navigate easily between pages
 
 See the [open issues](https://github.com/bpfullerton/eng-amro-dict/issues) for a full list of proposed features (and known issues).
 
@@ -193,7 +196,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+Distributed under the MIT license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,7 +205,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Brendan Fullerton - memorychannelproject@gmail.com
+Brendan Fullerton - [@memorychannelproject](https://www.instagram.com/memorychannelproject/) - memorychannelproject@gmail.com
 
 Project Link: [https://github.com/bpfullerton/eng-amro-dict](https://github.com/bpfullerton/eng-amro-dict)
 
@@ -213,8 +216,7 @@ Project Link: [https://github.com/bpfullerton/eng-amro-dict](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* Rick Wright, for helping me put the Amro language together in its early days.
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

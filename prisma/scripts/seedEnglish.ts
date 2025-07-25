@@ -47,8 +47,8 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
                                                 && entry.shortdef.length > 0 
                                                 && entry.meta.id.includes(word));
     if (!entries || entries.length === 0) {
-      // Add warning to notes-logs/missing-words.txt
-      fs.appendFileSync(path.join(__dirname, 'notes-logs', 'missing-words.txt'), `${word}\n`);
+      // Add warning to logs/missing-words.txt
+      fs.appendFileSync(path.join(__dirname, 'logs', 'missing-words.txt'), `${word}\n`);
       return [];
     }
 

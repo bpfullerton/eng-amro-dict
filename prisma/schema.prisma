@@ -1,0 +1,49 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model AmroWord {
+  id           Int      @id @default(autoincrement())
+  asr          String
+  cecamro      String
+  ipa          String
+  partOfSpeech String
+  ex_amro     String
+  ex_english   String
+  var_middle   String
+  var_old      String
+  meaning      String
+  translations AmroEnglishMap[]
+}
+
+model EnglishWord {
+  id           String      @id
+  word         String
+  prn          String
+  partOfSpeech String
+  example      String
+  et           String
+  translations AmroEnglishMap[]
+}
+
+model AmroEnglishMap {
+  id            Int         @id @default(autoincrement())
+  englishWord   EnglishWord @relation(fields: [englishWordId], references: [id])
+  englishWordId String
+  amroWord      AmroWord   @relation(fields: [amroWordId], references: [id])
+  amroWordId    Int
+  partOfSpeech  String?
+
+  @@unique([englishWordId, amroWordId, partOfSpeech]) // Prevent duplicates
+}

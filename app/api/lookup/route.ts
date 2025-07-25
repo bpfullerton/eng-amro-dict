@@ -33,6 +33,11 @@ export async function GET(req: NextRequest) {
         where: { englishWordId: english.id },
         include: { amroWord: true },
       });
+
+      if (mappings.length === 0) {
+        return NextResponse.json({ error: "No Amro words found for this English word" }, { status: 404 });
+      }
+
       const results = mappings.map((m) => m.amroWord);
       return NextResponse.json(results);
     }
@@ -52,6 +57,11 @@ export async function GET(req: NextRequest) {
         where: { amroWordId: amro.id },
         include: { englishWord: true },
       });
+
+      if (mappings.length === 0) {
+        return NextResponse.json({ error: "No English words found for this Amro word" }, { status: 404 });
+      }
+
       const results = mappings.map((m) => m.englishWord);
       return NextResponse.json(results);
     }

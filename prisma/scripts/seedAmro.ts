@@ -12,6 +12,8 @@ type AmroCsvRow = {
   cecamro?: string;
   ipa?: string;
   partOfSpeech?: string;
+  ex_amro?: string;
+  ex_english?: string;
   middle?: string;
   old?: string;
   meaning?: string;
@@ -19,7 +21,7 @@ type AmroCsvRow = {
 
 async function main() {
   // Read the CSV file
-  const csvPath = path.join(__dirname, 'amro.csv');
+  const csvPath = path.join(__dirname, '../amro.csv');
   const file = fs.readFileSync(csvPath, 'utf8');
 
   // Parse the CSV file
@@ -49,8 +51,8 @@ async function main() {
       cecamro: row.cecamro || '',
       ipa: row.ipa || '',
       partOfSpeech: row.partOfSpeech || '',
-      ex_amro: '',
-      ex_english: '',
+      ex_amro: row.ex_amro || '',
+      ex_english: row.ex_english || '',
       meaning: row.meaning || '',
       var_middle: row.middle || '',
       var_old: row.old || '',

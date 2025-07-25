@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "debug:seedEnglish": "tsx --inspect-brk ./prisma/seedEnglish.ts"
+    "debug:seedEnglish": "tsx --inspect-brk ./prisma/seedEnglish.ts",
+    "prisma-custom": "tsx prisma/cli.ts"
   },
   "prisma": {
     "seed": "tsx ./prisma/seed.ts"

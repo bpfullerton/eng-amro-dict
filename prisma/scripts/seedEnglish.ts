@@ -1,5 +1,7 @@
 import Prisma from '@prisma/client';
 import axios from 'axios';
+import fs from 'fs';
+import path from 'path';
 
 const prisma = new Prisma.PrismaClient();
 const MW_API_KEY = process.env.MW_API_KEY;
@@ -45,13 +47,14 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
                                                 && entry.shortdef.length > 0 
                                                 && entry.meta.id.includes(word));
     if (!entries || entries.length === 0) {
-      console.warn(`No definition found for ${word}`);
+      // Add warning to notes-logs/missing-words.txt
+      fs.appendFileSync(path.join(__dirname, 'notes-logs', 'missing-words.txt'), `${word}\n`);
       return [];
     }
 
     return entries.map((entry: any) => ({
       id: entry.meta.id,
-      word: entry.hwi.hw,
+      word: entry.hwi.hw.replace(/\*/g, '').trim(),
       prn: entry.hwi.prs?.[0]?.mw || '',
       partOfSpeech: entry.fl || '',
       example: entry.def?.[0]?.sseq?.[0]?.[0]?.dt?.[0]?.[1] || '',
@@ -65,22 +68,22 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
 
 async function main() {
     // Clear existing data in the EnglishWord table
-    //console.log('Clearing existing data in EnglishWord table...');
-    //await prisma.englishWord.deleteMany({});
+    console.log('Clearing existing data in EnglishWord table...');
+    await prisma.englishWord.deleteMany({});
     
     const allAmroWords = await prisma.amroWord.findMany();
     console.log("Found", allAmroWords.length, "Ammro words, processing now...");
     // Iterate through each Ammro word
-    for (const word of allAmroWords) {
-        if (!word.meaning) {
-            console.warn(`No meaning found for word: ${word.asr}`);
+    for (const amro of allAmroWords) {
+        if (!amro.meaning) {
+            console.warn(`No meaning found for word: ${amro.asr}`);
             continue;
         }
         
         // Extract meanings from the Ammro word
-        const meanings = extractMeanings(word.meaning);
+        const meanings = extractMeanings(amro.meaning);
         if (meanings.length === 0) {
-            console.warn(`No meanings found for word: ${word.asr}`);
+            console.warn(`No meanings found for word: ${amro.asr}`);
             continue;
         }
 
@@ -109,26 +112,7 @@ async function main() {
                         et: JSON.stringify(d.et),
                     },
                 });
-
-                // Link the Amro and English word together
-                if (partsOfSpeech.includes(word.partOfSpeech.toLowerCase())) {
-                
-                    await prisma.amroEnglishMap.upsert({
-                        where: {
-                            englishWordId_amroWordId_partOfSpeech: {
-                                englishWordId: d.id,
-                                amroWordId: word.id,
-                                partOfSpeech: d.partOfSpeech,
-                            }
-                        },
-                        update: {},
-                        create: {
-                            amroWord: { connect: { id: word.id } },
-                            englishWord: { connect: { id: d.id } },
-                            partOfSpeech: d.partOfSpeech,
-                        },
-                    });
-                }
+                console.log(`Upserted English word: ${d.word} with meanings: ${meanings.join(', ')}`);
             }
 
             

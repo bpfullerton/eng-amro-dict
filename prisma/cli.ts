@@ -17,11 +17,10 @@ try {
 
     switch (command) {
       case 'relink':
-        
         await relink();
         break;
 
-      case 'reset':
+      case 'reset-db':
         await deleteDuplicates();
         await backup();
         await clear();
@@ -44,7 +43,7 @@ try {
         await backup();
         break;
 
-      case 'clear':
+      case 'clear-db':
         await clear();
         break;
 

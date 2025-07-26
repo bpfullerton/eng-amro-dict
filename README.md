@@ -164,6 +164,11 @@ npm run prisma-custom -- relink
 Re-links the English and Amro words. This is useful to run when either database is updated.
 
 ```sh
+npm run prisma-custom -- clear-db
+```
+**Clears all data from the database**, including all Amro words, all English words, and all links between them. While this exists as a standalone command, **this should not be used unless you are planning to re-populate the database or reset it using `reset-db`.**
+
+```sh
 npm run prisma-custom -- reset-db
 ```
 **Resets the entire database** by running all of the above commands in sequence: `amro-backup -> seed-amro -> seed-english -> relink`.

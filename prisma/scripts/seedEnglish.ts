@@ -43,7 +43,7 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
 
   try {
     const { data } = await axios.get(url);
-    const entries = data.filter((entry: any) => entry.meta 
+    const entries = await data.filter((entry: any) => entry.meta 
                                                 && entry.shortdef.length > 0 
                                                 && entry.meta.id.includes(word));
     if (!entries || entries.length === 0) {
@@ -66,14 +66,18 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
   }
 }
 
-async function main() {
-    // Clear existing data in the EnglishWord table
+export async function seedEng() {
+  console.log('Seeding English words...');  
+  
+  // Clear existing data in the EnglishWord table if it exists
+  if (!(await prisma.englishWord.count()) || (await prisma.englishWord.count()) === 0) {
     console.log('Clearing existing data in EnglishWord table...');
     await prisma.englishWord.deleteMany({});
+  }
     
     const allAmroWords = await prisma.amroWord.findMany();
-    console.log("Found", allAmroWords.length, "Ammro words, processing now...");
-    // Iterate through each Ammro word
+    console.log("Found", allAmroWords.length, "Amro words, processing now...");
+    // Iterate through each Amro word
     for (const amro of allAmroWords) {
         if (!amro.meaning) {
             console.warn(`No meaning found for word: ${amro.asr}`);
@@ -112,7 +116,7 @@ async function main() {
                         et: JSON.stringify(d.et),
                     },
                 });
-                console.log(`Upserted English word: ${d.word} with meanings: ${meanings.join(', ')}`);
+                // console.log(`Upserted English word: ${d.word} with meanings: ${meanings.join(', ')}`);
             }
 
             
@@ -122,9 +126,11 @@ async function main() {
     await prisma.$disconnect();
 }
 
-main()
-  .catch(err => {
-    console.error(err);
-    process.exit(1);
-  })
-  .finally(() => prisma.$disconnect());
+if (require.main === module) {
+  seedEng()
+    .catch(err => {
+      console.error(err);
+      process.exit(1);
+    })
+    .finally(() => prisma.$disconnect());
+}

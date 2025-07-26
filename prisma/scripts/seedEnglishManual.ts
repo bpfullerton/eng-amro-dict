@@ -6,8 +6,10 @@ import path from 'path';
 
 const prisma = new PrismaClient();
 
-async function main() {
-  const filePath = path.join(__dirname, '../notes-logs/missed-words.txt');
+export async function manual() {
+  console.log('Seeding unmatched English phrases manually...');
+  
+  const filePath = path.join(__dirname, './logs/missed-words.txt');
   const fileContent = fs.readFileSync(filePath, 'utf8');
 
   // Extract one phrase per line
@@ -70,8 +72,10 @@ async function main() {
   await prisma.$disconnect();
 }
 
-main().catch((err) => {
-  console.error(err);
-  prisma.$disconnect();
-  process.exit(1);
-});
+if (require.main === module) {
+  manual().catch((err) => {
+    console.error(err);
+    prisma.$disconnect();
+    process.exit(1);
+  });
+}

@@ -7,47 +7,55 @@ console.log(`Running command: ${command}`);
 
 try {
   (async () => {
+    const { backup } = await import('./scripts/amro-backup');
+    const { deleteDuplicates } = await import('./scripts/delete-duplicates');
+    const { relink } = await import('./scripts/relink');
+    const { clear } = await import('./scripts/clear');
+    const { seedAmro } = await import('./scripts/seedAmro');
+    const { seedEng } = await import('./scripts/seedEnglish');
+    const { manual } = await import('./scripts/seedEnglishManual');
+
     switch (command) {
       case 'relink':
-        await import('./scripts/relink');
+        
+        await relink();
         break;
 
-      case 'reset-db':
-        console.log('Backing up Amro words...');
-        await import('./scripts/amro-backup');
-        console.log('Seeding Amro words...');
-        await import('./scripts/seedAmro');
-        console.log('Seeding English words...');
-        await import('./scripts/seedEnglish');
-        console.log('Seeding unmatched English phrases manually...');
-        await import('./scripts/seedEnglishManual');
-        console.log('Re-linking Amro ↔ English translations...');
-        await import('./scripts/relink');
-        console.log('✅ Seeding complete');
+      case 'reset':
+        await deleteDuplicates();
+        await backup();
+        await clear();
+        await seedAmro();
+        await seedEng();
+        await manual();
+        await relink();
         break;
 
       case 'seed-english':
-        await import('./scripts/seedEnglish');
-        console.log('Seeding unmatched English phrases manually...');
-        await import('./scripts/seedEnglishManual');
+        await seedEng();
+        await manual();
         break;
 
       case 'seed-amro':
-        await import('./scripts/seedAmro');
+        await seedAmro();
         break;
 
       case 'amro-backup':
-        console.log('Backing up Amro words to CSV...');
-        await import('./scripts/amro-backup');
+        await backup();
+        break;
+
+      case 'clear':
+        await clear();
         break;
 
       default:
         console.log(`Unknown command: ${command}`);
         console.log(`
-  Usage: npx prisma <command>
+  Usage: npm run prisma-custom -- <command>
 
   Available commands:
     amro-backup   Backup Amro words to CSV
+    clear-db      Clears all data in the database
     relink        Re-link Amro ↔ English translations
     reset-db      Reset the database and re-seed all data
     seed-english  Seed English words from the Merriam-Webster API

@@ -5,7 +5,9 @@ import { unparse } from 'papaparse';
 
 const prisma = new PrismaClient();
 
-async function main() {
+export async function backup() {
+  console.log('Backing up Amro words...');
+  
   const words = await prisma.amroWord.findMany();
 
   const output = unparse(
@@ -22,8 +24,10 @@ async function main() {
   await prisma.$disconnect();
 }
 
-main().catch((err) => {
-  console.error('❌ Error exporting Amro words:', err);
-  prisma.$disconnect();
-  process.exit(1);
-});
+if (require.main === module) {
+  backup().catch((err) => {
+    console.error('❌ Error exporting Amro words:', err);
+    prisma.$disconnect();
+    process.exit(1);
+  });
+}

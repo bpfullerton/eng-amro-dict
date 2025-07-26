@@ -19,7 +19,9 @@ type AmroCsvRow = {
   meaning?: string;
 };
 
-async function main() {
+export async function seedAmro() {
+  console.log('Seeding Amro words...');
+
   // Read the CSV file
   const csvPath = path.join(__dirname, '../amro.csv');
   const file = fs.readFileSync(csvPath, 'utf8');
@@ -39,9 +41,11 @@ async function main() {
     return;
   }
 
-  // Clear existing data in the amroWord table
-  console.log('Clearing existing data in amroWord table...');
-  await prisma.amroWord.deleteMany({});
+  // Clear existing data in the amroWord table if it exists
+  if (!(await prisma.amroWord.count()) || (await prisma.amroWord.count()) === 0) {
+    console.log('Clearing existing data in amroWord table...');
+    await prisma.amroWord.deleteMany({});
+  }
 
   // Insert the parsed data into the amroWord table
   console.log('Inserting data into amroWord table...');
@@ -62,9 +66,11 @@ async function main() {
   console.log('Seed complete');
 }
 
-main()
+if (require.main === module) {
+seedAmro()
   .catch(err => {
     console.error(err);
     process.exit(1);
   })
   .finally(() => prisma.$disconnect());
+}

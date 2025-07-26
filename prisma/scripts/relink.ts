@@ -19,11 +19,14 @@ function extractPartsOfSpeech(posRaw: string): string[] {
     .filter(Boolean);
 }
 
-async function main() {
+export async function relink() {
+  console.log('Re-linking Amro ↔ English translations...');
 
-  // Clear existing data in the amroEnglishMap table
-  console.log('Clearing existing data in amroEnglishMap table...');
-  await prisma.amroEnglishMap.deleteMany({});
+  // Clear existing data in the amroEnglishMap table if it exists
+  if (!(await prisma.amroEnglishMap.count()) || (await prisma.amroEnglishMap.count()) === 0) {
+    console.log('Clearing existing data in amroEnglishMap table...');
+    await prisma.amroEnglishMap.deleteMany({});
+  }
 
   // Get all Amro words that have meanings defined
   const amroWords = await prisma.amroWord.findMany({
@@ -76,8 +79,10 @@ async function main() {
   await prisma.$disconnect();
 }
 
-main().catch((err) => {
-  console.error('❌ Error re-linking:', err);
-  prisma.$disconnect();
-  process.exit(1);
-});
+if (require.main === module) {
+  relink().catch((err) => {
+    console.error('❌ Error re-linking:', err);
+    prisma.$disconnect();
+    process.exit(1);
+  });
+}

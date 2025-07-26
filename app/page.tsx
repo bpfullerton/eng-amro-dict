@@ -45,11 +45,11 @@ export default function TestMW() {
 
   return (
     <div className="max-w-xl mx-auto mt-12 px-4">
-      <h1 className="text-2xl font-bold mb-4">English Word Lookup</h1>
+      <h1 className="text-2xl font-bold mb-4">English-Amro Bilingual Dictionary</h1>
       <form onSubmit={handleSubmit} className="flex gap-2 mb-6">
         <input
           type="text"
-          placeholder="Enter an English word"
+          placeholder="Enter an English or Amro word"
           value={word}
           onChange={(e) => setWord(e.target.value)}
           className="border p-2 rounded w-full"

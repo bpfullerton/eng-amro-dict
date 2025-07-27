@@ -10,6 +10,7 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-cecamro: 'Cecamro', sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +19,14 @@
     --foreground: #ededed;
   }
 }
+
+@font-face {
+  font-family: 'Cecamro';
+  src: url('/public/fonts/cecamro.ttf') format('truetype'); /* or .woff2/.woff */
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 body {
   background: var(--background);

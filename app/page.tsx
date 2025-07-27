@@ -69,22 +69,19 @@ export default function TestMW() {
         {results.map((entry, index) => (
           <div key={index} className="border rounded p-4 shadow-sm">
             <h2 className="text-xl font-semibold">{entry.word || entry.asr}</h2>
-            {entry.cecamro && <p><strong>Cecamro:</strong> {entry.cecamro}</p>}
+            {entry.cecamro && <p className="font-cecamro text-xl">{entry.cecamro}</p>}
             {entry.ipa && <p><strong>IPA:</strong> /{entry.ipa}/</p>}
+            {entry.prn && (
+              <p>
+                <strong>Pronunciation:</strong> {entry.prn}
+              </p>
+            )}
             {entry.partOfSpeech && <p><strong>Part of Speech:</strong> {entry.partOfSpeech}</p>}
             {entry.example && <p><strong>Example:</strong> {entry.example}</p>}
-            {entry.etymology && (
-              <p><strong>Etymology:</strong> {JSON.stringify(entry.etymology)}</p>
-            )}
-            {entry.shortdef && (
-              <div>
-                <strong>Definitions:</strong>
-                <ul className="list-disc ml-5">
-                  {entry.shortdef.map((def: string, i: number) => (
-                    <li key={i}>{def}</li>
-                  ))}
-                </ul>
-              </div>
+            {entry.ex_amro && entry.ex_english && <p><strong>Example:</strong> {entry.ex_amro} = <em>{entry.ex_english}</em></p>}
+            {entry.etymology && (<p><strong>Etymology:</strong> {JSON.stringify(entry.etymology)}</p>)}
+            {entry.var_middle && entry.var_old && (
+              <p>From Middle Ámmro <em>{entry.var_middle}</em>, Old Amomoro <em>{entry.var_old}</em></p>
             )}
           </div>
         ))}

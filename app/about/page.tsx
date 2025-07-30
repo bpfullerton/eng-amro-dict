@@ -60,9 +60,9 @@ export default function AboutAmro() {
       // TODO: Add a page with a grammar guide to Amro!!!
       <h3>Example Sentences</h3>
       <ul>
-        <li>  = ór tišám. = Hello.</li>
-        <li> = Orór. = Hi. (more casual/colloquial)</li>
-        <li>   = Čón baml̠káro ún. = My name is Jon.</li>
+        <li><span className="font-cecamro"> </span> = ór tišám. = Hello.</li>
+        <li><span className="font-cecamro"></span> = Orór. = Hi. (more casual/colloquial)</li>
+        <li><span className="font-cecamro">  </span> = Čón baml̠káro ún. = My name is Jon.</li>
       </ul>
       <h2>Resources</h2>
       <ul>

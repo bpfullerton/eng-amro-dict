@@ -22,7 +22,7 @@
 
 @font-face {
   font-family: 'Cecamro';
-  src: url('/public/fonts/cecamro.ttf') format('truetype'); /* or .woff2/.woff */
+  src: url('/fonts/cecamro.ttf') format('truetype'); /* or .woff2/.woff */
   font-weight: normal;
   font-style: normal;
 }

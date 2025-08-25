@@ -1,894 +1,907 @@
-"id","asr","cecamro","ipa","partOfSpeech","ex_amro","ex_english","var_middle","var_old","meaning"
-"11023","škl̠áŋ","","","adjective; adverb","","","","","stressed; stressful; intense "
-"11024","škl̠ú","","","verb","","","","","stress out "
-"11025","šó","","","noun","","","","","possibility "
-"11026","šóŋ","","","adjective; adverb","","","","","possible "
-"11027","spíro","","","adjective; adverb","","","","","still; yet "
-"11028","štá","","","adjective; adverb","","","","","already "
-"11029","stumbrú","","","verb","","","","","live; reside; dwell "
-"11030","stumbátup","","","noun","","","","","house; home; residence"
-"11031","šón","","","noun","","","","","ability "
-"11032","šnú","","","verb","","","","","be able "
-"11033","sóš","","","preposition; adverb","","","","","with; using; in exchange for; by "
-"11034","své","","","adjective; adverb","","","","","like; similar to; such as "
-"11035","šakú","","","verb","","","","","focus; concentrate; devote; commit "
-"11036","ší","","","noun","","","","","usage; use case; state of being used "
-"11037","šú","","","verb","","","","","use; consume"
-"11038","tvára","","","noun","","","","","color "
-"11039","taphyá","","","adjective; adverb","","","","","later "
-"11040","phyú","","[pçu]","verb","","","","","sit"
-"11041","t̄é","8","","noun; pronoun","","","","","eight "
-"11042","vác","","/bats/","noun","","","","","push"
-"11043","vlorú","","/abəlɔˈɾu/","verb","","","","","advise; suggest"
-"11044","vlóya","","/aβəˈloʝə/","noun","","","","","year"
-"10861","yanlátama","","","noun","","","","","dining room "
-"10862","yáŋ","","","adjective; adverb","","","","","hungry "
-"10863","yasám","","","noun","","","","","respect; dignity "
-"10864","yékra","","","noun","","","","","South "
-"10865","yúkra","","","noun","","","","","North "
-"10866","žál","","","noun","","","","","level; rank; grade; degree "
-"10867","zékra","","","noun","","","","","West "
-"10868","žéma","","","conjunction","","","","","because; since; as "
-"10869","ška","","","preposition","","","","","in the case of; with; for "
-"10870","žl̠áš","","","noun","","","","","hair; fur "
-"10871","žúko","","","noun","","","","","reason; cause "
-"10872","zúkra","","","noun","","","","","East "
-"10873","škú","","","verb","","","","","result in; cause "
-"10874","hámat̄yo","","","noun","","","","","ennui"
-"10875","zúŋ","","","adjective","","","","","this "
-"10876","","","","","","","","",""
-"10879","pái","4","","noun; pronoun","","","","","four "
-"10880","phló","","","preposition","","","","","near "
-"10881","phašú","","","verb","","","","","treat; behave; act"
-"10882","pát","","","conjunction","","","","","whether "
-"10883","pé","9","","noun; pronoun","","","","","nine "
-"10884","phečú","","","verb","","","","","stop; cease "
-"10885","phí","","","preposition","","","","","in; inside; within "
-"10886","phíco","","","preposition","","","","","into "
-"11755","dú","","[dʊˈdu]","verb","","","","","drum"
-"10887","phíŋ","","","adjective; adverb","","","","","inner; inside "
-"10888","phíš","","","preposition","","","","","among "
-"10889","plá","","","noun","","","","","normalcy "
-"10890","pláŋ","","","adjective; adverb","","","","","usual; usually; commonplace; normal; normally; often; oftentimes "
-"10891","pó","","","preposition; adverb; noun","","","","","up; top; maximum; peak"
-"10892","pófle","","","noun","","","","","shirt; top "
-"10893","pókan","","","noun","","","","","mountain; highland "
-"10894","póŋ","","","adjective; adverb","","","","","high; tall "
-"10895","pótup","","","noun","","","","","tower; skyscraper "
-"10896","pxán","","","noun","","","","","ceiling "
-"10897","phran","","","preposition","","","","","across "
-"10898","póyargaš","","","noun","","","","","upper arm; bicep; shoulder "
-"10899","phožál","","","noun","","","","","highest rank; senior; leader; veteran "
-"10900","phyargáš","","","noun","","","","","lower arm; forearm "
-"10901","phyó","","","preposition; adverb; noun","","","","","down; bottom"
-"10902","phyobekú","","","verb","","","","","remind "
-"10903","phyočú","","","verb","","","","","redo; repeat"
-"10904","phyófle","","","noun","","","","","pants; skirt; bottoms "
-"10905","phyokú","","","verb","","","","","check; review; monitor "
-"10906","phyokamú","","","verb","","","","","remake; recreate; renovate"
-"10907","phyókižl̠aš","","","noun","","","","","rug; carpet "
-"10908","phyonú","","","verb","","","","","replace "
-"10909","phyóŋ","","","adjective; adverb","","","","","low; short "
-"10910","phyophašú","","","verb","","","","","react "
-"10911","phyotephkú","","","verb","","","","","look back "
-"10912","phyotebú","","","verb","","","","","return "
-"10913","phyoxú","","","verb","","","","","respond "
-"10914","phyoxán","","","noun","","","","","floor; ground "
-"10915","phyoyákn","","","adjective; adverb","","","","","again "
-"10916","rám","","","noun","","","","","type; kind; form "
-"10917","ramník","","","noun","","","","","movie; film; video "
-"10918","ramnú","","","verb","","","","","move"
-"10919","rók","","","noun","","","","","order; peace; tranquility; forgiveness "
-"10920","rokú","","","verb","","","","","forgive"
-"10921","ša","","","preposition","","","","","with "
-"10922","sái","5","","noun; pronoun","","","","","five "
-"10923","sákri","","","preposition","","","","","around"
-"10924","šám","","","pronoun","","","","","you"
-"10925","sámpa","","","noun","","","","","gratitude; thanks; relief "
-"10926","sampáŋ","","","adjective; adverb","","","","","grateful; thankful; relieved "
-"10927","sé","10","","noun; pronoun","","","","","ten "
-"10928","secú","","","verb","","","","","smell "
-"10929","sécuš","","","noun","","","","","nose "
-"10930","séto","","","adjective; adverb","","","","","only; just; simply "
-"10931","sétogo","","","conjunction","","","","","if; as long as; provided that; only if "
-"10932","setóŋ","","","adjective; adverb","","","","","alone; solo "
-"10933","ši","","","preposition","","","","","against "
-"10934","šíke","","","noun","","","","","ball; circle; oval "
-"10935","škéŋ","","","adjective; adverb","","","","","round; circular "
-"10936","šíŋ","","","adjective","","","","","that "
-"10937","šínc","","","noun","","","","","reason; intelligence "
-"10938","šincú","","","verb","","","","","think; ponder; reason "
-"10939","špónš","","","conjunction; adverb","","","","","whenever; once; when"
-"10940","svíš","","","preposition","","","","","about; regarding; concerning "
-"10941","skáv","","","noun","","","","","other "
-"10942","skvámfe","","","noun","","","","","cousin "
-"10943","skváŋ","","","adjective; adverb","","","","","other "
-"10944","ski","","","preposition","","","","","past "
-"10945","skvar","","","preposition","","","","","beyond "
-"10946","škógro","","","noun","","","","","collection; library "
-"10947","sknám","","","noun","","","","","author; writer; scribe "
-"10948","sknú","","","verb","","","","","write "
-"10949","skóŋ","","","adjective; adverb","","","","","written; documented "
-"10950","škó","","","noun","","","","","stress; intensity "
-"11045","vlú","","[βlu]","verb","","","","","prove"
-"11046","mbovú","","[ɐ.βə̃.mɔˈvu]","verb","","","","","scatter; spread; spill"
-"11047","ván","","[ɐˈβãn]","noun","","","","","plan; strategy"
-"11048","váŋ","","[ɐˈβãŋ]","adjective; adverb","","","","","planned; prepared"
-"11049","áv","","[ˈa.βɛ]","noun","","","","","wall"
-"11050","áda","","[ˈai.dɐɨ]","noun","","","","","number"
-"11051","ádki","","[ˈai.dɐɨ.kid]","noun","","","","","math"
-"11052","déa","","[d̪eə]","conjunction","","","","","also; too; as well"
-"11053","adú","","[ɐiˈdu]","verb","","","","","count; number"
-"11054","dyéke","","[ɐiˈɟɛb.ke]","noun","","","","","statistics; data"
-"11055","flé","","[əˈfle]","noun","","","","","fabric"
-"11056","áfle","","[ˈa.fle]","noun","","","","","cloak; robe"
-"11057","fléŋ","","[əˈflɛ̃ŋ]","adjective; adverb","","","","","fabric; knitted"
-"11058","flú","","[flu]","verb","","","","","sew; knit"
-"11059","ái","1","[a]","noun; pronoun","","","","","one"
-"11060","phím","","[ɐxˈɸĩm]","noun","","","","","savings; bank account"
-"11061","phimú","","[ɐx.ɸɨ̃ˈmu]","verb","","","","","save; invest"
-"11063","kól̠","","[ˈko.ʟɐ]","noun","","","","","power; influence"
-"11064","ákra","","[ˈa.kɾə]","noun","","","","","way; direction; road; path"
-"11065","méo","","[meo]","noun","","","","","gender; person (gender-neutral)"
-"11066","móŋ","","[mɛˈõŋ]","adjective; adverb","","","","","gender neutral; non-binary"
-"11067","ámfe","","[ˈã.fe]","noun","","","","","family member; gender-neutral sibling"
-"11068","ámro","","[ˈãmːɾɔ]","noun","","","","","Amro language"
-"11069","ám","","[ˈã.mɔ]","noun","","","","","being; god; deity; spirit; person"
-"11070","áŋkna","","[ˈãm.kɐ.nə]","noun","","","","","Amokana"
-"11071","móš","","[moʃ]","noun","","","","","body; form "
-"11072","motíŋ","","[ɐ̃.mɔˈti.kŋ̍]","adjective; adverb","","","","","met; familiar "
-"11073","móša","","[ˈmov.ʃə]","noun","","","","","partner; significant other "
-"11074","ánč","","[ˈãn.t͡ʃə]","preposition; adverb","","","","","since"
-"11075","ptá","","[əpˈta]","noun","","","","","chair; seat "
-"11076","ptóm","","[əpˈto.mə]","noun","","","","","bench "
-"11077","rá","","[əˈɾa]","noun","","","","","happiness; fun; joy "
-"11078","ráŋ","","[ə.ɾãŋ]","adjective; adverb","","","","","happy; fun; joyful "
-"11079","árga","","[ˈaɾ.ɡə]","noun","","","","","grip "
-"11080","argáš","","[əɾˈɡaʃ]","noun","","","","","arm "
-"11081","argašú","","[ɐɾ.ɡəˈʃu]","verb","","","","","hug; embrace"
-"11082","argú","","[əɾˈɡu]","verb","","","","","grab"
-"11083","rú","","[ɐˈɾu]","verb","","","","","please"
-"11084","áš","","[aʃ]","noun","","","","","equality; sameness "
-"11085","áškva","","[ˈa.ʃəv.kɐ]","noun","","","","","organization; group "
-"11086","škók","","[əʃˈkoɪk]","noun","","","","","system; organization "
-"11087","škókŋ","","[əʃˈkoɪ.kŋ̍]","adjective; adverb","","","","","systemic; organized "
-"11088","šyá","","[əʃˈkça]","noun","","","","","schedule; routine; agenda "
-"11089","ášŋ","","[ˈa.ʃŋ̍]","adjective; adverb","","","","","same; equal "
-"11090","vasá","","[ɐ.vəˈsa]","noun","","","","","importance; significance; meaning; value; worth "
-"11091","vasáŋ","","[ɐ.vəˈsãŋ]","adjective; adverb","","","","","important; significant; meaningful "
-"11092","vasú","","[ɐ.vəˈsu]","verb","","","","","mean; signify; represent; matter"
-"11093","ávka","","[ˈav.kə]","noun","","","","","government; administration; leadership; head "
-"11094","vakáŋ","","[ɐvˈkãŋ]","adjective; adverb","","","","","political; governmental; administrative "
-"11095","ávkike","","[ˈav.kɨ̃ŋ.kɛ]","noun","","","","","tax "
-"11096","vakú","","[əvˈku]","verb","","","","","govern; lead"
-"11097","wóm","","[əˈwõm]","noun","","","","","covering; layer; clothing"
-"11098","wómaš","","[]","noun","","","","","skin "
-"11099","wombú","","[ɐ.wɔ̃mˈbu]","verb","","","","","cover; wrap"
-"11100","xó","","[əˈχo]","noun","","","","","origin; source; base "
-"11101","xócai","","[əˈχo.t͡sɐɪ]","noun","","","","","root "
-"11102","xóŋ","","[əˈχõŋ]","adjective; adverb","","","","","original; native; indigenous "
-"11103","žík","","[əˈʒik]","preposition; conjunction","","","","","until"
-"11104","bacú","","[bəˈtsu]","verb","","","","","push"
-"11105","báfe","","[ˈba.fe]","noun","","","","","sister "
-"11106","bakrí","","[bəˈkɾi]","noun","","","","","completion "
-"11107","bakríŋ","","[bəˈkɾĩŋ]","adjective; adverb","","","","","complete; full "
-"11108","bakrú","","[bəˈkɾu]","verb","","","","","complete"
-"11109","bál","","[ˈba.lə]","noun; pronoun","","","","","zero; nothing; none; no"
-"11110","bló","","[bəˈlo]","noun","","","","","whole "
-"11111","blóŋ","","[bəˈlõŋ]","adjective; adverb","","","","","true; credible; correct; right; verified; official "
-"11112","blór","","[bəˈloɾ]","noun","","","","","advice; suggestion "
-"11113","blórŋ","","[bəˈlo.ɾŋ̍]","adjective; adverb","","","","","right; correct; good"
-"11114","bám","","[bəm]","pronoun","","","","","I; me "
-"11115","mbóf","","[bə̃ˈmof]","noun","","","","","spread; scattering; growth "
-"11116","mbóvŋ","","[bə̃ˈmo.vŋ̍]","adjective; adverb","","","","","scattered; spread; spilled "
-"11117","mtá","","[bə̃mˈta]","noun","","","","","table "
-"11118","mtú","","[bə̃mˈtu]","verb","","","","","set"
-"11119","mbú","","[bə̃ˈmu]","verb","","","","","put"
-"11120","bánto","","[ˈbãn.tɔ]","noun","","","","","attitude; spirit; principle "
-"11121","banú","","[bə̃ˈnu]","verb","","","","","plan; prepare"
-"11122","fivú","","[bɐ.ɸɨˈβu]","verb","","","","","leave"
-"11123","baséo","","[bəˈseɔ]","noun","","","","","woman; female "
-"11124","baseóŋ","","[bɐ.sɛˈõŋ]","adjective; adverb","","","","","female "
-"11125","báskoš","","[bəsˈkov.ʃə]","noun","","","","","wife "
-"11126","bášŋ","","[ˈba.ʃŋ̍]","adjective; adverb","","","","","surprised; impressed "
-"11127","pšú","","[bəˈʃu]","verb","","","","","surprise; impress"
-"11128","be","","[bɛ]","definite article","","","","","the "
-"11129","bén","","[ˈbe.nə]","noun","","","","","situation; condition "
-"11130","labác","","","noun","","","","","cookie "
-"11131","líplo","","","noun","","","","","sugar"
-"11132","bíl","","","noun","","","","","sugarcane "
-"11133","mŋé","","[bəˈŋe]","noun","","","","","amount "
-"11134","wokái","","[bɔˈkaɪ]","noun","","","","","mark; stain; smudge "
-"11135","vronóš","","[bɾɔ̃ˈnoʒ]","noun","","","","","understanding; comprehension "
-"11136","vronóžŋ","","[bɾɔ̃ˈno.ʒŋ̍]","adjective; adverb","","","","","understood "
-"11137","vronožú","","[bɾɔ̃.nɔˈʒu]","verb","","","","","understand; comprehend"
-"11138","brái","","[bʊˈɾai]","noun","","","","","place; location "
-"11139","brášŋ","","[bʊˈɾa.ʃŋ̍]","adjective; adverb","","","","","close"
-"11140","brú","","[bʊˈɾu]","verb","","","","","locate; place"
-"11141","phyéphke","","[ˈbʝɛb.ke]","noun","","","","","information; news "
-"11142","phyephkú","","[bʝɛbˈku]","verb","","","","","report; inform"
-"11143","ča","","","preposition","","","","","for"
-"11144","cabára","","[t͡səˈbaɪ.ɾə]","noun","","","","","green "
-"11145","cabráŋ","","[t͡sə.bɐɪˈɾãŋ]","adjective; adverb","","","","","green "
-"11146","čacú","","[t͡ʃəˈt͡su]","verb","","","","","chew; grind; crush; smash"
-"11147","čálimne","","[ˈt͡ʃal.mɪ̃.ne]","noun","","","","","clay "
-"11148","čalimnú","","[t͡ʃɐl.mɪ̃ˈnu]","verb","","","","","mold; shape; bend"
-"11149","čáŋka","","[ˈt͡ʃãm.kə]","noun","","","","","door; gate; portal "
-"11150","čamtá","","","noun","","","","","furniture "
-"11151","can","","[t͡sə̃n]","adjective; adverb","","","","","some"
-"11152","cafít̄ŋ","","[t͡sə̃nˈfi.θŋ̍]","adjective; adverb","","","","","eventually; sometime; ever"
-"11153","čáš","","[t͡ʃəˈt͡suʃ]","noun","","","","","teeth "
-"11154","čát̄","","","noun","","","","","success "
-"11155","cát̄go","","[ˈt͡sa.θə.ɡo]","noun","","","","","cat; feline "
-"11156","cat̄góŋ","","[t͡sɐ.θəˈɡõŋ]","adjective; adverb","","","","","feline "
-"11157","čat̄ám","","","noun","","","","","winner "
-"11158","čat̄ú","","","verb","","","","","succeed; win"
-"11159","šekú","","[t͡ʃɐ.xɛˈku]","verb","","","","","hurt; suffer "
-"11160","cáš","","[ˈt͡sa.ʝə]","noun","","","","","period; interval"
-"11161","cahí","","[t͡sɐˈʝi]","noun","","","","","fruit "
-"11162","ce","","[t͡sɛ]","conjunction; preposition","","","","","as; than"
-"11163","céc","","[ˈt͡se.t͡sə]","noun","","","","","line "
-"11164","cecáŋ","","[t͡sɛˈt͡sãŋ]","adjective; adverb","","","","","straight "
-"11165","čel̠ál","","[t͡ʃɛˈʟal]","adverb","","","","","likewise"
-"11166","čélm","","","noun","","","","","excitement; stimulus "
-"11167","čelmáŋ","","","adjective; adverb","","","","","excited; stimulated; hyped; pumped "
-"11168","čelmú","","","verb","","","","","excite "
-"11169","cép","","[ˈt͡se.pə]","noun","","","","","reality; truth "
-"11170","spáŋ","","[t͡sɛˈpãŋ]","adjective; adverb","","","","","real; actual; true; genuine; literal "
-"11171","spú","","[t͡sɛˈpu]","verb","","","","","reveal; manifest "
-"11172","čéa","","","noun","","","","","bone; foundation; framework "
-"11173","cí","","[t͡si]","noun","","","","","action; task; job; project "
-"11174","čkóf","","","noun","","","","","weather "
-"11175","čínta","","","noun","","","","","rabbit "
-"11176","čintú","","","verb","","","","","jump; leap "
-"11177","cín","","","noun","","","","","version; edition; iteration "
-"11178","cíŋ","","[t͡sĩn]","adjective; adverb","","","","","one; certain"
-"11179","čár","","","noun","","","","","game "
-"11180","čarú","","","noun","","","","","play"
-"11181","šížŋ","","[ˈt͡si.ʑŋ̍]","adjective; adverb","","","","","busy "
-"11182","šižú","","[t͡sɨˈʝu]","verb","","","","","do "
-"11183","cóči","","[ˈt͡so.t͡ʃɪ]","adjective; adverb","","","","","almost "
-"11184","čóm","","[t͡ʃõm]","noun","","","","","possession; bearing "
-"11185","comnú","","[t͡so.mɛˈnu]","verb","","","","","acknowledge; recognize; note "
-"11186","čomiplú","","[t͡ʃɔ̃.mɪ.pəˈlu]","verb","","","","","comprise; contain; include"
-"11187","čompéŋ","","","adjective; adverb","","","","","comfortable; content; satisfied "
-"11188","čompú","","","verb","","","","","comfort "
-"11189","čomú","","[t͡ʃɔ̃ˈmu]","verb","","","","","have; possess; bear "
-"11190","čon","","[t͡ʃɔ̃n]","conjunction","","","","","or "
-"11191","cop","","[t͡sɔp̚]","relative pronoun","","","","","that; which; who; whom; why"
-"11192","čopáf","","","conjunction","","","","","instead; rather "
-"11193","čovrú","","[t͡ʃɔ.vɛˈɾu]","verb","","","","","throw "
-"11194","ču","","[t͡ʃʊ]","preposition","","","","","at "
-"11195","čugón","","[t͡ʃʊˈɡõn]","noun","","","","","glider; airplane; helicopter"
-"11196","čugú","","[t͡ʃʊˈɡu]","verb","","","","","drive; operate; fly"
-"11197","čugána","","[ʧʊgˈwa.hə]","noun","","","","","car"
-"11198","čúkt̄e","","[ˈt͡ʃu.kɪ.θe]","preposition","","","","","behind "
-"11199","čúmt̄a","","[ˈt͡ʃũ.mɪ.θɐ]","preposition","","","","","in front of "
-"11200","cúi","","[t͡swi]","noun; adjective; adverb","","","","","less"
-"11201","cúiga","","[ˈt͡swi.ɡə]","conjunction","","","","","less than "
-"11202","cuyú","","[t͡swiˈʝu]","verb","","","","","decrease; fall "
-"11203","córŋ","","[ˈt͡swo.ɾŋ̍]","adjective; adverb","","","","","worse "
-"11204","dá","","[də]","noun; pronoun","","","","","it"
-"11205","dapád","","[dɐ.həˈpad]","noun","","","","","mystery; question "
-"11206","dapádŋ","","[dɐ.həˈpa.dŋ̍]","adjective; adverb","","","","","mysterious; unknown "
-"11207","dái","2","[daɪ]","noun; pronoun","","","","","two"
-"11208","dáphalo","","[ˈdaɪ.pə.lɔ]","noun","","","","","half "
-"11209","dakáp","","[dəˈkap̚]","noun","","","","","order; demand "
-"11210","dám","","[də̃m]","pronoun","","","","","he; him; she; her; they; them "
-"11211","dáp","","[dap̚]","noun","","","","","question; request "
-"11212","daphíp","","[dəˈpib̚]","noun","","","","","invitation "
-"11213","daphibú","","[dɐ.pɪˈbu]","verb","","","","","invite "
-"11214","dakapú","","[dɐp.kəˈpu]","verb","","","","","order; demand; command "
-"11215","dapú","","[dəˈpu]","verb","","","","","ask; request; wonder "
-"11216","dé","7","[de]","noun; pronoun","","","","","seven"
-"11217","démpya","","[ˈdẽm.bɪ.ʝə]","noun","","","","","week "
-"11218","di","","[dɪ]","conjunction","","","","","and "
-"11219","divá","","[dɪˈba]","noun","","","","","previous"
-"11220","dibámpya","","[dɪˈbãm.bi.ʝə]","noun","","","","","yesterday "
-"11221","dibáŋ","","[dɪˈbãŋ]","adjective; adverb","","","","","previous; previously "
-"11222","dibáš","","[dɪˈbaʃ]","preposition","","","","","before "
-"11223","dibášŋ","","[dɪˈba.ʃŋ̍]","adjective; adverb","","","","","early "
-"11224","dibášda","","[dɪˈba.ʃɛ.dɐi]","adjective; adverb","","","","","A.M. "
-"11225","dífe","","[ˈdi.fe]","noun","","","","","brother "
-"11226","dikóš","","[dɪˈkov.ʃə]","noun","","","","","husband "
-"11227","do","","[dɔ]","preposition","","","","","for"
-"11228","dóvgo","","","noun","","","","","arthropod; bug; insect "
-"11229","dóphyŋ","","[ˈdob.ʝŋ̍]","adjective; adverb","","","","","safe; secure; protected "
-"11230","dophyú","","[dɔbˈʝu]","verb","","","","","defend; protect "
-"11231","dógo","","[ˈdo.ɡɔ]","conjunction","","","","","in case; lest "
-"11232","dúda","","[ˈdu.də]","noun","","","","","drum "
-"11233","dyá","","[ɟa]","noun","","","","","group "
-"11234","dyám","","[ɟəm]","pronoun","","","","","each other"
-"11235","é","6","[e]","noun; pronoun","","","","","six"
-"11236","éca","","[ˈɛ.t͡sɐi]","noun","","","","","tree "
-"11238","cúiŋ","","[ɛt͡sˈwi]","adjective; adverb","","","","","least"
-"11239","swórŋ","","[ɛt͡sˈwo.ɾŋ̍]","adjective; adverb","","","","","worst "
-"11240","érgo","","[ˈe.ɾa.ɡo]","noun","","","","","dog "
-"11241","ergóŋ","","[ɛ.ɾaˈɡõŋ]","adjective; adverb","","","","","canine "
-"11242","és","","[ˈe.sə]","noun","","","","","size; growth "
-"11243","šotóŋ","","[ɛ.ʃə.hɔˈtõŋ]","adjective; adverb","","","","","ancient; archaic; antique "
-"11244","sambáfe","","[ɛ.sə̃mˈba.fe]","noun","","","","","aunt "
-"11245","sandífe","","[ɛ.sə̃mˈdi.fe]","noun","","","","","uncle "
-"11246","sámfe","","[ɛˈsãɱ.fe]","noun","","","","","parent; guardian "
-"11247","samféŋ","","[ɛ.sə̃mˈfɛ̃ŋ]","adjective; adverb","","","","","parental "
-"11248","samfú","","[ɛ.sə̃mˈfu]","verb","","","","","parent; raise "
-"11249","sáŋ","","[ɛˈsãŋ]","adjective; adverb","","","","","big; large; conceptual "
-"11250","ézbafe","","[ɛsˈba.fe]","noun","","","","","mother "
-"11251","spaféŋ","","[ɛs.bəˈfɛ̃ŋ]","adjective; adverb","","","","","motherly; maternal "
-"11252","ézdife","","[ɛsˈdɨ.fe]","noun","","","","","father "
-"11253","stiféŋ","","[ɛs.dɨˈfɛ̃ŋ]","adjective; adverb","","","","","fatherly; paternal "
-"11254","skyá","","[ɛsˈɡʝa]","noun","","","","","most"
-"11255","skyáŋ","","[ɛsˈɡʝãŋ]","adjective; adverb","","","","","most; mostly; largely; generally "
-"11256","skyórŋ","","[ɛsˈɡʝo.ɾŋ̍]","adjective; adverb","","","","","best "
-"11257","ésplo","","","noun","","","","","character; nature; core characteristic "
-"11258","skinú","","[ɛs.kɨˈnu]","verb","","","","","lose "
-"11259","éskitup","","[ˈɛs.kɨ.tʊb̚]","noun","","","","","college; university "
-"11260","skótup","","[ˈes.ko.tʊb̚]","noun","","","","","city "
-"11261","skotubáŋ","","[ɛs.kɔˈtu.bŋ̍]","adjective; adverb","","","","","urban "
-"11262","éskri","","[ˈɛs.kɾi]","preposition","","","","","throughout; around; surrounding "
-"11263","šnómi","","[ɛʃˈnõ.mɨ]","noun","","","","","consciousness; understanding; imagination; spirituality "
-"11264","šnomú","","[ɛʃ.nɔ̃ˈmu]","verb","","","","","imagine; conceptualize "
-"11265","šnošáŋ","","[ɛʃ.nɔˈʃãŋ]","adjective; adverb","","","","","sacred "
-"11266","šnoší","","[ɛʃ.nɔˈsi]","noun","","","","","ceremony; ritual "
-"11267","spói","","[ɛsˈpoi]","noun","","","","","sky "
-"11268","spóikna","","[ɛsˈpoi.kɐ̃.nə]","noun","","","","","heaven "
-"11269","spoknáŋ","","[ɛs.pɔi.kə̃ˈnãŋ]","adjective; adverb","","","","","heavenly; angelic "
-"11270","stép","","[ɛsˈtɛb̚]","noun","","","","","journey; voyage; vacation; escape "
-"11271","sú","","[ɛˈsu]","verb","","","","","grow; expand; enlarge "
-"11272","ésve","","[ɛˈsu.vɛ]","conjunction","","","","","as if; as though "
-"11273","šwéko","","[ɛʃˈwe.kɔ]","noun","","","","","life; existence "
-"11274","šwekóŋ","","[ɛʃ.wɛˈkõŋ]","adjective; adverb","","","","","alive; living "
-"11275","šwekú","","[ɛʃ.wɛˈku]","verb","","","","","live"
-"11276","ét̄o","","[ˈɛ.θɔ]","preposition","","","","","along "
-"11277","flál̠","","[fəˈlaʟ]","noun","","","","","surface; face "
-"11278","flal̠ú","","[fɐ.ləˈʟu]","verb","","","","","scan; survey "
-"11279","fláŋ","","[fəˈlãŋ]","adjective; adverb","","","","","shallow; surface-level "
-"11280","fánta","","[ˈfãn.tə]","noun","","","","","decision; choice "
-"11281","fantáŋ","","[fə̃nˈtãŋ]","adjective; adverb","","","","","chosen "
-"11282","fantú","","[fə̃nˈtu]","verb","","","","","decide; pick; choose "
-"11283","fít̄","","[fiθ]","noun","","","","","time; occurrence; instance; occasion "
-"11284","fit̄ámpya","","","adjective; adverb","","","","","today "
-"11285","fit̄ámpe","","[fɨˈθãm.pe]","noun","","","","","rhythm "
-"11286","fit̄ó","","","noun","","","","","middle; center "
-"11287","fit̄óš","","","noun","","","","","chest; thorax "
-"11288","fit̄óya","","","noun; adverb","","","","","present; now; currently "
-"11289","fit̄ú","","","verb","","","","","happen; occur "
-"11290","flákra","","[ˈfla.kɾə]","noun","","","","","river; stream; waterway "
-"11291","flátiplo","","","noun","","","","","raindrop "
-"11292","flátephi","","","noun","","","","","rain; waterfall "
-"11293","fluvára","","","noun","","","","","blue "
-"11294","fluvráŋ","","","adjective; adverb","","","","","blue "
-"11295","flúmne","","","noun","","","","","water; liquid "
-"11296","flumnú","","","verb","","","","","drink "
-"11297","flumóŋ","","","adjective; adverb","","","","","thirsty "
-"11298","frósko","","","noun","","","","","morality; conscience "
-"11299","froskóŋ","","","adjective; adverb","","","","","moral "
-"11300","froskú","","","verb","","","","","moralize"
-"11301","phu","","","preposition","","","","","for"
-"11302","ga","","","conjunction","","","","","than"
-"11303","gáŋe","","","pronoun; adjective; adverb","","","","","how much "
-"11304","gábra","","","pronoun; adjective; adverb","","","","","where "
-"11305","gáča","","","pronoun; adjective; adverb","","","","","how long"
-"11306","gáge","","","pronoun; adjective; adverb","","","","","what "
-"11307","gágo","","","pronoun; adjective; adverb","","","","","what if"
-"11308","gákra","","","pronoun; adjective; adverb","","","","","which way "
-"11309","gámt̄yo","","","pronoun; adjective; adverb","","","","","how"
-"11310","gám","","","pronoun; adjective; adverb","","","","","who "
-"11311","gárka","","","pronoun; adjective; adverb","","","","","how"
-"11312","gáxon","","","pronoun; adjective; adverb","","","","","what sound "
-"11313","gáyakn","","","pronoun; adjective; adverb","","","","","when"
-"11314","gážko","","","pronoun; adjective; adverb","","","","","why "
-"11315","gráva","","","noun","","","","","thing; object "
-"11316","grámne","","","noun","","","","","matter; substance; weight "
-"11317","gramíŋ","","","adjective; adverb","","","","","heavy; dense "
-"11318","gratikú","","","verb","","","","","familiarize; adjust"
-"11319","grón","","","conjunction","","","","","either; any "
-"11320","gíroben","","","adjective; adverb","","","","","either way; anyway "
-"11321","go","","","conjunction","","","","","if "
-"11322","gobára","","","noun","","","","","red "
-"11323","gobaráŋ","","","adjective; adverb","","","","","red "
-"11324","gosphibú","","","verb","","","","","dismiss; kick out; ban "
-"11325","gocár","","","noun","","","","","satisfaction "
-"11326","gocarú","","","verb","","","","","satisfy; please"
-"11327","gosekú","","","verb","","","","","damage; hurt; harm "
-"11328","gócŋ","","","adjective; adverb","","","","","forced; forceful; hard "
-"11329","gočók","","","noun","","","","","blood; essence "
-"11330","gocú","","","verb","","","","","make; force; compel"
-"11331","gohác","","","noun","","","","","temptation; seduction; attraction "
-"11332","goacú","","","verb","","","","","tempt; attract; seduce "
-"11333","gósphi","","","noun","","","","","necessity; need "
-"11334","gosphíŋ","","","adjective; adverb","","","","","necessary "
-"11335","gosprú","","","verb","","","","","need "
-"11336","gotebú","","","verb","","","","","move; transport "
-"11337","gobušóŋ","","","adjective; adverb","","","","","mobile; moveable "
-"11338","got̄anú","","","verb","","","","","kill; destroy "
-"11339","gúne","","","noun","","","","","bear "
-"11340","kyá","","","noun","","","","","more"
-"11341","kyáŋ","","","adjective; adverb","","","","","more"
-"11342","kyága","","","conjunction","","","","","more than "
-"11343","gaíŋ","","","adjective; adverb","","","","","especially; particularly "
-"11344","ganomú","","","verb","","","","","overthink "
-"11345","kyášŋ","","","adjective; adverb","","","","","similar; close "
-"11346","gašóŋ","","","adjective; adverb","","","","","easy "
-"11347","gašú","","","verb","","","","","facilitate; assist; ease; expedite"
-"11348","kyát̄o","","","adjective; adverb","","","","","too"
-"11349","gat̄ošéŋ","","","adjective; adverb","","","","","too much "
-"11350","kyórŋ","","","adjective; adverb","","","","","better "
-"11351","gorú","","","verb","","","","","improve; better "
-"11352","kyú","","","verb","","","","","increase; rise "
-"11353","há","","","noun","","","","","hole; void; emptiness; negative "
-"11354","hábrašŋ","","","adjective; adverb","","","","","far"
-"11355","ačat̄ú","","","verb","","","","","fail "
-"11356","hácam","","","noun","","","","","actor; actress; pretender "
-"11357","acečú","","","verb","","","","","pretend; act; perform "
-"11358","ačelmáŋ","","","adjective; adverb","","","","","bored "
-"11359","háspam","","","noun","","","","","faker; liar; fraud "
-"11360","aspáŋ","","","adjective; adverb","","","","","false; fake; untrue; fictional "
-"11361","aspú","","","verb","","","","","fake; lie "
-"11362","ačómŋ","","","adjective; adverb","","","","","deprived; starved "
-"11363","adapú","","","verb","","","","","answer; reply "
-"11364","adibá","","","noun","","","","","next one "
-"11365","adibámpya","","","noun","","","","","tomorrow "
-"11366","adibáŋ","","","adjective; adverb","","","","","next "
-"11367","hádibaš","","","preposition","","","","","after "
-"11368","adibášŋ","","","adjective; adverb","","","","","late "
-"11369","adibášda","","","adjective; adverb","","","","","P.M. "
-"11370","adíŋ","","","adjective; adverb","","","","","final; last; ultimate "
-"11371","háf","","","noun","","","","","right; freedom; liberty "
-"11372","afóŋ","","","adjective; adverb","","","","","free; liberated"
-"11373","afú","","","verb","","","","","free; liberate; release "
-"11374","agramíŋ","","","adjective; adverb","","","","","light; airy "
-"11375","hágron","","","conjunction","","","","","neither "
-"11376","akyašóŋ","","","adjective; adverb","","","","","difficult; hard; adverse "
-"11377","akláŋ","","","adjective; adverb","","","","","temporary "
-"11378","aknomú","","","verb","","","","","forget "
-"11379","akóŋ","","","adjective; adverb","","","","","free"
-"11380","adkinú","","","verb","","","","","hide; obscure; keep"
-"11381","akifú","","","verb","","","","","restrain; hold back"
-"11382","akík","","","noun","","","","","appearance "
-"11383","akíkŋ","","","adjective; adverb","","","","","seemingly "
-"11384","akú","","","verb","","","","","seem; appear; look "
-"11385","aknám","","","noun","","","","","recipient "
-"11386","aknú","","","verb","","","","","receive; take; get "
-"11387","akiŋké","","","noun","","","","","income; pay; salary; wage "
-"11388","akokíŋ","","","adjective; adverb","","","","","cheap; inexpensive "
-"11389","akvíno","","","adjective; adverb","","","","","few; little "
-"11390","akvixóŋ","","","adjective; adverb","","","","","quiet "
-"11391","hákovša","","","preposition","","","","","except; not including "
-"11392","amlátama","","","noun","","","","","bedroom "
-"11393","amnú","","","verb","","","","","sleep"
-"11394","améŋ","","","adjective; adverb","","","","","tired; sleepy "
-"11395","amnéŋ","","","adjective; adverb","","","","","abstract "
-"11396","amyóŋ","","","adjective; adverb","","","","","slow; gradual "
-"11397","hámta","","","noun","","","","","bed "
-"11398","hán","","","adjective; adverb","","","","","not "
-"11399","ambacú","","","verb","","","","","pull "
-"11400","ambalóŋ","","","adjective; adverb","","","","","wrong; incorrect "
-"11401","háŋka","","","adjective; adverb","","","","","never "
-"11402","ambaráŋ","","","adjective; adverb","","","","","purple "
-"11403","hánampya","","","noun","","","","","night "
-"11404","anampyáŋ","","","adjective; adverb","","","","","nighttime "
-"11405","anaráŋ","","","adjective; adverb","","","","","sad; upset "
-"11406","anášŋ","","","adjective; adverb","","","","","different "
-"11407","hánč","","","noun","","","","","end; finish; tip "
-"11408","ančánč","","","noun","","","","","finger; toe"
-"11409","ančántebuš","","","noun","","","","","toe "
-"11410","ančárgaca","","","noun","","","","","leaf "
-"11411","ančárgaš","","","noun","","","","","hand "
-"11412","ančú","","","verb","","","","","end; finish "
-"11413","anmavaráŋ","","","adjective; adverb","","","","","black "
-"11414","anmáye","","","noun","","","","","darkness "
-"11415","anméŋka","","","noun","","","","","shadow; silhouette "
-"11417","anháŋkinam","","","noun","","","","","victim; casualty "
-"11418","aŋkinám","","","noun","","","","","criminal; culprit; evildoer "
-"11419","amnaráŋ","","","adjective; adverb","","","","","melancholy "
-"11420","hánor","","","noun","","","","","badness; evil; misfortune; darkness "
-"11421","anórŋ","","","adjective; adverb","","","","","bad "
-"11422","antóŋ","","","adjective; adverb","","","","","old; aged "
-"11423","ahanú","","","verb","","","","","fill "
-"11424","anú","","","verb","","","","","empty "
-"11425","hántebuš","","","noun","","","","","foot "
-"11426","antewóm","","","noun","","","","","shoe "
-"11427","háŋ","","","adjective; adverb","","","","","negative; anti "
-"11428","aphadú","","","verb","","","","","not know "
-"11429","apáŋ","","","adjective; adverb","","","","","unknown; secret "
-"11430","aphí","","","preposition","","","","","outside "
-"11431","aphíco","","","preposition","","","","","out of "
-"11432","apláŋ","","","adjective; adverb","","","","","abnormal; strange; weird "
-"11433","arók","","","noun","","","","","chaos; disorder; pandemonium "
-"11434","háš","","","noun","","","","","lack; disability "
-"11435","áša","","","preposition; adjective; adverb","","","","","without"
-"11436","háškok","","","noun","","","","","relaxation "
-"11437","ašoxú","","","verb","","","","","relax; destress; calm"
-"11439","ašníkŋ","","","adjective; adverb","","","","","blind "
-"11440","ašnikú","","","verb","","","","","blind "
-"11441","aptoyú","","","verb","","","","","fall"
-"11442","hakošáŋ","","","adjective; adverb","","","","","separate; apart "
-"11443","háuna","","","preposition","","","","","off "
-"11444","haúma","","","preposition","","","","","under; below "
-"11445","awómafle","","","noun","","","","","underwear "
-"11446","haumašú","","","verb","","","","","skin; peel "
-"11447","yakášŋ","","","adjective; adverb","","","","","far"
-"11448","otamsá","","","noun","","","","","sprout "
-"11449","otám","","","noun","","","","","child; baby; novice; beginner "
-"11450","otibáŋ","","","adjective; adverb","","","","","recently; just "
-"11451","otikú","","","verb","","","","","find; discover"
-"11452","otóŋ","","","adjective; adverb","","","","","new; recent; modern "
-"11453","íčke","","","noun","","","","","tool; appliance; device "
-"11454","idéo","","[dɪˈdeɔ]","noun","","","","","man; male "
-"11455","idóŋ","","[dɪ.dɛˈõŋ]","adjective; adverb","","","","","male "
-"11456","ík","","","noun","","","","","image; picture; sight; appearance "
-"11457","inák","","","noun","","","","","artwork; visual art "
-"11458","kíčke","","","noun","","","","","television "
-"11459","íkor","","[ɐiˈkoɾ]","noun","","","","","example; instance "
-"11460","ikrú","","[ɐi.kɔˈɾu]","verb","","","","","exemplify "
-"11461","kú","","","verb","","","","","see; watch; look"
-"11462","kúš","","","noun","","","","","eye "
-"11463","mbaráŋ","","","adjective; adverb","","","","","white "
-"11464","mái","","","noun","","","","","light "
-"11465","maíŋ","","","adjective; adverb","","","","","bright; light; shiny "
-"11466","mayú","","","verb","","","","","brighten; shine; polish "
-"11467","motí","","[ɐĩ.mɔˈtik]","noun","","","","","calculation; computation "
-"11468","motikáf","","[ɐĩ.mo.tɨˈka.bə]","noun","","","","","calculator "
-"11469","mokíčke","","[ɐĩ.mo.tɨˈkit͡ʃ.ke]","noun","","","","","computer "
-"11470","motikú","","[ɐĩ.mo.tɨˈku]","verb","","","","","calculate; compute "
-"11471","nú","","","verb","","","","","exist"
-"11472","pakóf","","","noun","","","","","season "
-"11473","íplo","","","noun","","","","","part; piece; element; property; aspect; characteristic "
-"11474","íplokan","","","noun","","","","","state; province; county "
-"11475","plú","","","verb","","","","","form; constitute; compose"
-"11476","pámro","","","noun","","","","","word "
-"11477","íphya","","","noun","","","","","hour "
-"11478","phibáso","","","noun","","","","","girl "
-"11479","íphsa","","","noun","","","","","grass "
-"11480","phícakan","","","noun","","","","","field; plain; grassland "
-"11481","phidéo","","","noun","","","","","boy "
-"11482","phimró","","","noun","","","","","dialect "
-"11484","íphamro","","","noun","","","","","letter; glyph; symbol "
-"11485","phipái","","","noun","","","","","second "
-"11486","phyán","","","noun","","","","","minute "
-"11487","phyébke","","","noun","","","","","note; fact; log; entry "
-"11488","í","","","noun","","","","","food "
-"11489","kalšú","","","verb","","","","","continue; persist; persevere "
-"11490","kláŋ","","","adjective; adverb","","","","","forever; eternal; maintained; permanent "
-"11491","kalú","","","verb","","","","","keep; maintain; remain; stay "
-"11492","kám","","","pronoun","","","","","they; them"
-"11493","káma","","","noun","","","","","creation "
-"11494","kamcíŋ","","","adjective; adverb","","","","","improved; developed "
-"11495","kamšú","","","verb","","","","","improve; develop "
-"11496","kamám","","","noun","","","","","child; offspring; person "
-"11497","kámpya","","","noun","","","","","birthday "
-"11498","phwómne","","","noun","","","","","creation "
-"11499","kamnóm","","","noun","","","","","creativity "
-"11500","káŋ","","","adjective; adverb","","","","","manmade; artificial; constructed "
-"11501","kamóca","","","noun","","","","","stem "
-"11502","kamú","","","verb","","","","","create; make "
-"11503","kán","","","noun","","","","","country; nation; land; territory; area "
-"11504","kánafle","","","noun","","","","","flag; banner "
-"11505","kanánč","","","noun","","","","","border"
-"11506","kanóm","","","noun","","","","","memory; recording "
-"11507","kanmík","","","noun","","","","","photograph "
-"11508","kanomú","","","verb","","","","","remember; record; recognize "
-"11509","kamxón","","","noun","","","","","song; recording; tape; track"
-"11510","kál","","","noun","","","","","eagle "
-"11511","kár","","","noun","","","","","work; labour; job "
-"11512","krú","","","verb","","","","","work "
-"11513","káze","","","noun","","","","","way; style "
-"11514","ké","","","noun","","","","","value; worth; cost "
-"11515","kékva","","","noun","","","","","money "
-"11516","kekú","","","verb","","","","","cost"
-"11517","kešnú","","","verb","","","","","afford "
-"11518","kvíplo","","","noun","","","","","stock "
-"11519","kéfka","","","noun","","","","","company; business "
-"11520","kít","","","noun","","","","","learning; knowledge; class; course; study; science "
-"11521","kidám","","","noun","","","","","student; scholar; learner "
-"11522","kikinú","","","verb","","","","","teach; instruct; describe; show; explain"
-"11523","kidú","","","verb","","","","","learn; study "
-"11524","kidyá","","","noun","","","","","class"
-"11525","kifú","","","verb","","","","","allow; free"
-"11526","klátama","","","noun","","","","","classroom "
-"11527","kinú","","","verb","","","","","give; hand "
-"11528","kinuké","","","noun","","","","","business; trade "
-"11529","kinukú","","","verb","","","","","trade; deal"
-"11530","kinukéŋ","","","adjective; adverb","","","","","economic "
-"11531","kinsú","","","verb","","","","","reward "
-"11532","kiŋké","","","noun","","","","","fee; price "
-"11533","kiŋkú","","","verb","","","","","buy; pay "
-"11534","kírana","","","noun","","","","","deer; elk "
-"11535","kíšla","","","noun","","","","","blade; cutter"
-"11536","kišlú","","","verb","","","","","cut; slice "
-"11537","kit̄aphyú","","","verb","","","","","miss; long"
-"11538","kit̄ámpya","","","noun","","","","","morning "
-"11539","kit̄é","","","noun","","","","","back "
-"11540","kit̄éš","","","noun","","","","","back"
-"11541","kit̄éa","","","noun","","","","","past "
-"11542","kit̄yáŋ","","","adjective; adverb","","","","","ago; past"
-"11543","kítup","","","noun","","","","","school"
-"11544","kížl̠aš","","","noun","","","","","fur; pelt "
-"11545","klígemne","","","noun","","","","","slime "
-"11546","kl̠ám","","[kɔˈʟã.mɔ]","noun","","","","","king; lord; leader; person of power "
-"11547","kl̠ámkan","","[kɔˈʟã.mɔ.kɐ.nə]","noun","","","","","kingdom, dynasty, empire "
-"11548","kl̠áŋ","","[kɔ.ʟãŋ]","adjective; adverb","","","","","powerful; strong "
-"11549","kl̠ú","","[kɔˈʟu]","verb","","","","","rule; govern; control"
-"11550","kóm","","","noun","","","","","creature; organism "
-"11551","komcá","","","noun","","","","","plant "
-"11552","komcú","","","verb","","","","","plant "
-"11553","koŋgó","","","noun","","","","","animal "
-"11554","komxú","","","verb","","","","","shout; yell; scream; bark "
-"11555","konášŋ","","","adjective; adverb","","","","","many different; various; myriad "
-"11556","kopšík","","","noun","","","","","search; investigation "
-"11557","kopškú","","","verb","","","","","look; search; investigate "
-"11558","kór","","","noun","","","","","presentation; showing "
-"11559","kret̄ú","","","verb","","","","","guide; show "
-"11560","korú","","","verb","","","","","show; present "
-"11561","kótup","","","noun","","","","","town "
-"11562","kvamóŋ","","","adjective; adverb","","","","","social "
-"11563","kvinápta","","","noun","","","","","couch "
-"11564","kvíno","","","adjective; noun; adverb","","","","","many; much; a lot; very"
-"11565","kvinyáno","","","adjective","","","","","several; multiple; some "
-"11566","kvípamro","","","noun","","","","","sentence "
-"11567","kvifyébke","","","noun","","","","","list "
-"11568","kvixóŋ","","","adjective; adverb","","","","","loud "
-"11569","kvokíŋ","","","adjective; adverb","","","","","expensive "
-"11570","kóvša","","","preposition","","","","","including "
-"11571","pí","","","noun","","","","","nature "
-"11572","píŋ","","","adjective; adverb","","","","","natural "
-"11573","krá","","","noun","","","","","sense; feeling "
-"11574","kramyú","","","verb","","","","","confuse; confound "
-"11575","kranú","","","verb","","","","","read "
-"11576","kráŋ","","","adjective; adverb","","","","","readable; legible; literate "
-"11577","krayú","","","verb","","","","","sense; feel "
-"11578","krayúš","","","noun","","","","","nerves; nervous system "
-"11579","krí","","","preposition","","","","","through "
-"11580","kríka","","","noun","","","","","way; technique; process "
-"11581","krikú","","","verb","","","","","look through; search; scan "
-"11582","kuvyáŋ","","","adjective; adverb","","","","","soon "
-"11583","kuphyakáŋ","","","adjective; adverb","","","","","right away; immediately "
-"11584","kudibáš","","","adjective; adverb","","","","","then; soon after "
-"11585","kuté","","","noun","","","","","nut"
-"11586","kyavráŋ","","","adjective; adverb","","","","","orange "
-"11587","kyakú","","","verb","","","","","burn "
-"11588","kyámne","","","noun","","","","","fire "
-"11589","kyaxaláŋ","","","adjective; adverb","","","","","hot "
-"11590","kyaxaŋkóf","","","noun","","","","","summer "
-"11591","kyó","","","noun","","","","","power; exponent "
-"11592","lagán","","","noun","","","","","muscle "
-"11593","l̠akáro","","","noun","","","","","name; title "
-"11594","l̠akrú","","","verb","","","","","name; call "
-"11595","lakómna","","","noun","","","","","purpose; will; significance "
-"11596","lamári","","","noun","","","","","party; celebration; festival; carnival "
-"11597","lamrú","","","verb","","","","","party; celebrate "
-"11598","l̠anl̠ú","","","verb","","","","","reach; extend "
-"11599","látama","","","noun","","","","","room "
-"11600","l̠ekál","","","noun","","","","","measure; scale "
-"11601","l̠ekalú","","","verb","","","","","measure "
-"11602","lexó","","","noun","","","","","sickness; plague; disease; virus "
-"11603","lí","","","adverb","","","","","yes"
-"11604","líŋ","","","adjective; adverb","","","","","sure; certain "
-"11605","likapú","","","verb","","","","","obey; comply"
-"11606","lyú","","","verb","","","","","agree "
-"11607","loé","","","preposition","","","","","between "
-"11608","l̠ókm","","","noun","","","","","Loqm "
-"11609","lóma","","","noun","","","","","egg; embryo "
-"11610","lomcá","","","noun","","","","","seed; bean; grain "
-"11611","lomcayá","","","noun","","","","","bread; cracker"
-"11612","l̠óna","","","noun","","","","","mistake; error; accident "
-"11613","l̠yám","","","noun","","","","","left "
-"11614","mat̄icá","","","noun","","","","","flower "
-"11615","mat̄icú","","","verb","","","","","flower; bloom; blossom "
-"11616","mat̄ík","","","noun","","","","","beauty "
-"11617","mtóč","","","adjective; adverb","","","","","regardless; anyway; anyhow "
-"11618","mat̄yó","","","noun","","","","","emotion "
-"11619","mat̄yóš","","","noun","","","","","heart; core; feelings; love "
-"11620","mat̄yú","","","verb","","","","","feel"
-"11621","máš","","","","","","","",""
-"11622","mnú","","","verb","","","","","wake"
-"11623","mné","","","noun","","","","","element; substance; material "
-"11624","mnekamáf","","","noun","","","","","builder"
-"11625","mnekamám","","","noun","","","","","builder"
-"11626","mnekamú","","","verb","","","","","build "
-"11627","mnéŋ","","","adjective; adverb","","","","","physical; concrete "
-"11628","misé","","","conjunction","","","","","unless "
-"11629","mit̄á","","","noun","","","","","front "
-"11630","mit̄ámpya","","","noun","","","","","afternoon "
-"11631","mit̄ái","","","noun","","","","","future "
-"11632","mit̄ayáŋ","","","adjective; adverb","","","","","in the future "
-"11633","mol̠gám","","","noun","","","","","debt; favor; request; contract "
-"11634","mol̠gámŋ","","","adjective; adverb","","","","","indebted; bound "
-"11635","mol̠gamú","","","verb","","","","","owe"
-"11636","moŋkám","","[mɔ.χɔ̃.nəˈka.mɔ]","noun","","","","","singer "
-"11637","monkú","","[mɔ.χõ.nəˈku]","verb","","","","","sing "
-"11638","mór","","","noun","","","","","language; script "
-"11639","motephšú","","","verb","","","","","run "
-"11640","motík","","[mɔˈtik]","noun","","","","","meeting; introduction "
-"11642","movári","","","noun","","","","","here "
-"11643","mováta","","","noun","","","","","there "
-"11644","mové","","","noun","","","","","everywhere "
-"11645","moxón","","[mɔˈχõn]","noun","","","","","voice "
-"11646","moyóŋ","","","adjective; adverb","","","","","fast; rapid; quick; sharp "
-"11647","mpé","","[m̩ˈpe]","noun","","","","","pattern; sequence "
-"11648","mróš","","","noun","","","","","tongue "
-"11649","naftú","","","verb","","","","","deal with "
-"11650","nišláŋ","","","noun","","","","","cold "
-"11651","níšimne","","","noun","","","","","ice "
-"11652","nokáo","","","noun","","","","","voice; say; input; power "
-"11653","noxú","","","verb","","","","","express"
-"11654","nomámš","","","noun","","","","","self; spirit; soul "
-"11655","nomí","","","noun","","","","","thought; idea; view; perspective "
-"11656","nomóš","","","noun","","","","","interest; passion "
-"11657","nomíš","","","noun","","","","","head; mind; brain "
-"11658","nomkit̄yáŋ","","","adjective; adverb","","","","","nostalgic; reminiscent "
-"11659","nomói","","","noun","","","","","rumor; legend "
-"11660","nomtikú","","","verb","","","","","figure out; determine"
-"11661","nomú","","","verb","","","","","believe; think "
-"11662","not̄pí","","","noun","","","","","hope; will; wish "
-"11663","not̄phyú","","","verb","","","","","wish; hope; will "
-"11664","oblú","","","verb","","","","","promise; swear "
-"11665","ói","","","noun","","","","","conversation "
-"11666","híčke","","","noun","","","","","telephone; walkie-talkie "
-"11667","hú","","","verb","","","","","talk; converse "
-"11668","óm","","","noun","","","","","length "
-"11669","máŋ","","","adjective; adverb","","","","","long "
-"11670","mú","","","verb","","","","","lengthen "
-"11671","ón","","","noun","","","","","addition "
-"11672","onskváŋ","","","adjective; adverb","","","","","another "
-"11674","óŋ","","","adjective; adverb","","","","","additional "
-"11675","ór","","","noun","","","","","goodness; wellness; fortune "
-"11676","óram","","","noun","","","","","friend "
-"11677","órŋ","","","adjective; adverb","","","","","good "
-"11678","tenú","","","verb","","","","","function; work; operate "
-"11679","tenučú","","","verb","","","","","activate; turn on; start up "
-"11680","t̄yó","","","noun","","","","","smile "
-"11681","t̄yóš","","","noun","","","","","mouth "
-"11682","t̄yú","","","verb","","","","","smile "
-"11683","pha","","","preposition","","","","","of"
-"11684","phsám","","","noun","","","","","helper; guide "
-"11685","phsú","","","verb","","","","","help; aid; assist "
-"11687","phdám","","","noun","","","","","expert; professional "
-"11688","pádŋ","","","adjective; adverb","","","","","known; understood; familiar; knowledgeable "
-"11689","phdú","","","verb","","","","","know "
-"11690","tadibáš","","","adjective; adverb","","","","","afterwards "
-"11691","t̄ái","3","","noun; pronoun","","","","","three "
-"11692","staphyú","","","verb","","","","","want; desire; long"
-"11693","t̄alámŋ","","","adjective; adverb","","","","","soft; gentle "
-"11694","t̄ám","","","pronoun","","","","","we; us "
-"11695","t̄aphyú","","","verb","","","","","want "
-"11696","tatú","","","verb","","","","","poke; prod "
-"11697","táčla","","","noun","","","","","needle"
-"11698","tačlú","","","verb","","","","","pierce; stab; penetrate "
-"11699","t̄yám","","","noun","","","","","right "
-"11700","tép","","","noun","","","","","trip; voyage "
-"11701","tevyú","","","verb","","","","","fly; float; levitate "
-"11702","tévšla","","","noun","","","","","dart "
-"11703","tevkú","","","verb","","","","","visit"
-"11704","tevú","","","verb","","","","","go; travel "
-"11705","tevúš","","","noun","","","","","leg "
-"11706","tevšú","","","verb","","","","","walk "
-"11707","tebtú","","","verb","","","","","attend; go "
-"11708","t̄án","","","noun","","","","","death "
-"11709","t̄anú","","","verb","","","","","die"
-"11710","t̄aphibú","","","verb","","","","","exit; leave; go out; come out "
-"11711","tékra","","","noun","","","","","pursuit "
-"11712","tekrú","","","verb","","","","","pursue; hunt; chase "
-"11713","téŋka","","","noun","","","","","shape; outline"
-"11714","tepiváŋa","","","interjection","","","","","welcome; come in"
-"11715","tepivú","","","verb","","","","","enter; go in; come; arrive "
-"11716","tepravú","","","verb","","","","","bring "
-"11717","tephyú","","","verb","","","","","rise "
-"11718","ti","","","preposition","","","","","to "
-"11719","t̄i","","","conjunction","","","","","so; therefore; as a result "
-"11720","čífe","","","noun","","","","","family; kin "
-"11721","číkra","","","preposition","","","","","towards; at; for "
-"11722","t̄omrú","","","verb","","","","","translate "
-"11723","tók","","","adjective","","","","","all; every; each "
-"11724","tokómfle","","","noun","","","","","outfit "
-"11725","tokórŋ","","","adjective; adverb","","","","","alright; okay"
-"11726","tokvinám","","","noun","","","","","gathering; congregation; society; civilization "
-"11727","tokvimnú","","","verb","","","","","gather; congregate; organize "
-"11728","tokóvša","","","noun","","","","","togetherness; unity; company; community; combination; connection "
-"11729","tokvošám","","","noun","","","","","wedding; couple "
-"11730","tokvošáŋ","","","adjective; adverb","","","","","together; united "
-"11731","tokvošú","","","verb","","","","","combine; join"
-"11732","tokói","","","adjective; adverb","","","","","always "
-"11733","t̄óm","","","noun","","","","","apology "
-"11734","t̄omú","","","verb","","","","","apologize "
-"11735","t̄onžú","","","verb","","","","","realize "
-"11736","tonyákŋ","","","adjective","","","","","some "
-"11737","t̄ópa","","","conjunction","","","","","while; during; as; when; at"
-"11738","tór","","","noun","","","","","pole; stand; tripod "
-"11739","t̄ošéŋ","","","adjective; adverb","","","","","enough "
-"11740","t̄óskva","","","conjunction","","","","","whereas "
-"11741","t̄otíš","","","noun","","","","","effect; result; consequence; influence "
-"11742","t̄otížŋ","","","adjective; adverb","","","","","affected; influenced "
-"11743","t̄otižú","","","verb","","","","","affect; influence "
-"11744","t̄wativú","","","verb","","","","","become "
-"11745","t̄wáf","","","noun","","","","","change "
-"11746","t̄wavú","","","verb","","","","","change "
-"11747","t̄wáš","","","noun","","","","","effect; result "
-"11748","t̄wažú","","","verb","","","","","affect "
-"11749","túp","","","noun","","","","","building "
-"11750","ú","","","verb","","","","","be "
-"11751","úča","","","noun","","","","","start; beginning "
-"11752","účŋ","","","adjective; adverb","","","","","first; initial "
-"11753","učú","","","verb","","","","","start; begin "
-"11754","dáŋ","","[dʊˈdãŋ]","adjective; adverb","","","","","percussive; rhythmic "
-"11756","dyafít̄","","[du.ɟaˈfiθ]","noun","","","","","tempo; beat "
-"11757","úla","","","noun","","","","","moon "
-"11758","lái","","","noun","","","","","month "
-"11759","nák","","","noun","","","","","art "
-"11760","pán","","","noun","","","","","experience "
-"11761","phanú","","","verb","","","","","experience "
-"11762","va","","","preposition","","","","","from; of; by "
-"11763","vák","","","noun","","","","","organization; comittee "
-"11764","vast̄ú","","","verb","","","","","heal "
-"11765","venyán","","","noun","","","","","complexity; detail; nuance "
-"11766","vužú","","","verb","","","","","buzz; hum "
-"11767","phwágo","","","noun","","","","","bird; kite "
-"11768","phwámne","","","noun","","","","","air; gas "
-"11769","phwái","","","noun","","","","","atmosphere; air; wind "
-"11770","wayú","","","verb","","","","","blow "
-"11771","phwáp","","","noun","","","","","caution; care "
-"11772","phwápŋ","","","adjective; adverb","","","","","careful; cautious "
-"11773","wekín","","","noun","","","","","medicine; health "
-"11774","wekíŋ","","","adjective; adverb","","","","","medical "
-"11775","phwéko","","","noun","","","","","health; life "
-"11776","phwína","","","preposition","","","","","on "
-"11777","phwó","","","noun","","","","","world; realm; planet; Earth; universe "
-"11778","phwódomai","","","noun","","","","","metal "
-"11779","phwódomne","","","noun","","","","","rock; stone; solid "
-"11780","wodóŋ","","","adjective; adverb","","","","","hard; solid "
-"11781","woflú","","","verb","","","","","freeze; snow "
-"11782","phwófumne","","","noun","","","","","snow; ice "
-"11783","wohánč","","","noun","","","","","cliff; bluff; edge "
-"11784","phwókan","","","noun","","","","","continent"
-"11785","wolé","","","noun","","","","","box; square; rectangle "
-"11786","woléŋ","","","adjective; adverb","","","","","square; rectangular "
-"11787","phwómba","","","preposition","","","","","over; above "
-"11788","wompítam","","","noun","","","","","closet "
-"11789","phwómfle","","","noun","","","","","clothing "
-"11790","kámne","","","noun","","","","","ground; earth; soil; land "
-"11791","phwóxa","","","noun","","","","","motto; mantra; incantation  "
-"11792","xabekú","","","verb","","","","","announce; state "
-"11793","xák","","","noun","","","","","speech; words; story; tale; communication "
-"11794","xádo","","","noun","","","","","military "
-"11795","xákŋ","","","adjective; adverb","","","","","spoken "
-"11796","xakú","","","verb","","","","","say; tell; speak "
-"11797","xákya","","","noun","","","","","fight; conflict; tension; war "
-"11798","xakohú","","","verb","","","","","argue; dispute "
-"11799","xakyú","","","verb","","","","","attack; fight; offend "
-"11800","xálfle","","","noun","","","","","blanket; bed cover "
-"11801","xalflú","","","verb","","","","","blanket "
-"11802","xláŋ","","","adjective; adverb","","","","","warm "
-"11804","xambráŋ","","","adjective; adverb","","","","","yellow "
-"11805","xámi","","","noun","","","","","sun "
-"11806","xambórŋ","","","interjection","","","","","good day; good afternoon"
-"11807","xámpya","","","noun","","","","","day "
-"11808","xampyáŋ","","","adjective; adverb","","","","","daytime "
-"11809","xán","","","adverb","","","","","no "
-"11810","xapófle","","","noun","","","","","coat; jacket; sweater "
-"11811","xatvínbra","","","noun","","","","","military base; headquarters; base of operations "
-"11812","xáx","","","interjection","","","","","shit; fuck"
-"11813","xočón","","","noun","","","","","problem "
-"11814","xofú","","","verb","","","","","should; must "
-"11815","xoknóŋ","","","adjective; adverb","","","","","tainted; poisoned; ruined "
-"11816","xón","","","noun","","","","","sound "
-"11817","xonfít̄","","","noun","","","","","musical note "
-"11818","xonák","","","noun","","","","","music "
-"11819","xoŋkám","","","noun","","","","","musician "
-"11820","xoŋkíčke","","","noun","","","","","musical instrument "
-"11821","xoníphimro","","","noun","","","","","accent "
-"11822","xont̄yú","","","verb","","","","","laugh "
-"11823","xonú","","","verb","","","","","hear; listen "
-"11824","xonúš","","","noun","","","","","ear "
-"11825","xórva","","","conjunction; adjective; adverb","","","","","although; even; despite; while "
-"11826","xwá","","","noun","","","","","both; neither "
-"11827","yavú","","","verb","","","","","like; enjoy"
-"11828","yafít̄","","","noun","","","","","frequency "
-"11830","yákn","","","noun","","","","","time "
-"11831","yalátama","","","noun","","","","","kitchen "
-"11832","yám","","","noun","","","","","effort; attempt; test "
-"11833","yamú","","","verb","","","","","try; attempt "
-"11834","yánlagan","","","noun","","","","","ab; abdominal muscle "
-"11835","yánaš","","","noun","","","","","stomach; abdomen "
-"11836","yane","","","conjunction","","","","","but; however; yet "
-"11837","yanú","","","verb","","","","","eat "
+﻿asr,cecamro,ipa,partOfSpeech,middle,old,meaning,Notes
+ačat̄ú,,atʃəˈθu,verb,hačat̄ú,hajat̄u,fail ,
+acečú,,atsɛˈtʃu,verb,haceciyú,haceciyu,pretend; act; perform ,
+ačelmáŋ,,atʃɛlˈmaŋ,adjective; adverb,hačelmáŋ,hajelmaŋ,bored ,
+ačómŋ,,əˈtʃomŋ̍,adjective; adverb,hačómŋ,hačom'ŋ,deprived; starved ,
+áda,,ˈadə,noun,ádai,aidai,number,
+adapú,,adəˈpu,verb,hadapú,hadapu,answer; reply ,
+adivá,,adɪˈva,noun,hadibá,hadiba,next one ,
+adivámpya,,adɪˈvampjə,noun,hadibámbya,hadibambiya,tomorrow ,
+adiváŋ,,adɪˈvaŋ,adjective; adverb,hadibáŋ,hadibaŋ,next ,
+adivášda,,adɪˈvaʃdə,adjective; adverb,hadibáššedai,hadibaš'sedai,P.M. ,
+adivášŋ,,adɪˈvaʃŋ̍,adjective; adverb,hadibášŋ,hadibaš'ŋ,late ,
+adíŋ,,əˈdiŋ,adjective; adverb,hadíŋ,hadiŋ,final; last; ultimate ,
+ádaki,,ˈadəkɪ,noun,ádakid,aidaikid,math,
+akiknú,,akɪkˈnu,verb,hakidkinú,hakidkinu,hide; obscure; keep,to keep a secret
+adú,,əˈdu,verb,adú,aidu,count; number,
+áfle,,ˈaflɛ,noun,áfle,ab'fle,cloak; robe,
+afóŋ,,əˈfoŋ,adjective; adverb,hafóŋ,hafoŋ,free; liberated,free of limitations; liberated
+afú,,əˈfu,verb,hafú,hafu,free; liberate; release ,
+agramíŋ,,aɡɾəˈmiŋ,adjective; adverb,hageramíŋ,hageramiŋ,light; airy ,
+axanú,,aχəˈnu,verb,hahanú,hahanu,fill ,
+ái,1,ˈaɪ,noun; pronoun,ái,ai,one,
+akifú,,akɪˈfu,verb,hakifú,hakifu,restrain; hold back,
+akík,,əˈkik,noun,hakík,hakik',appearance ,
+akíkŋ,,əˈkikŋ̍,adjective; adverb,hakíkŋ,hakik'ŋ,seemingly ,
+akiŋké,,akɪŋˈke,noun,hakiŋké,hakinke,income; pay; salary; wage ,
+akláŋ,,əˈklaŋ,adjective; adverb,hakaláŋ,hakalaŋ,temporary ,
+aknám,,əkˈnam,noun,hakinámo,hakinamo,recipient ,
+aknomú,,aknɔˈmu,verb,hakanomú,hakanomu,forget ,
+aknú,,əkˈnu,verb,hakinú,hakinu,receive; take; get ,
+akokíŋ,,akɔˈkiŋ,adjective; adverb,hakokíŋ,hakokiŋ,cheap; inexpensive ,
+akóŋ,,əˈkoŋ,adjective; adverb,hakekóŋ,hakekoŋ,free,free of charge
+ákra,,ˈakɾə,noun,ákra,'k'ra,way; direction; road; path,
+akú,,əˈku,verb,hakikú,hakiku,seem; appear; look ,
+akvíno,,akˈvinɔ,adjective; adverb,hakovíno,hakovino,few; little ,
+akvixóŋ,,akvɪˈχoŋ,adjective; adverb,hakovixóŋ,hakovixoŋ,quiet ,
+akyašóŋ,,acəˈʃoŋ,adjective; adverb,hagyašóŋ,hagyašoŋ,difficult; hard; adverse ,
+ám,,ˈam,noun,ám,amo,being; god; deity; spirit; person,
+ambacú,,ambəˈtsu,verb,hanabacú,hanabacu,pull ,
+ambalóŋ,,ambəˈloŋ,adjective; adverb,hanabalóŋ,hanabaloŋ,wrong; incorrect ,
+ambaráŋ,,ambəˈɾaŋ,adjective; adverb,hanambairáŋ,hanamabairaŋ,purple ,
+améŋ,,əˈmeŋ,adjective; adverb,haméŋ,hameŋ,tired; sleepy ,
+ámfe,,ˈam.fe,noun,ámfe,amfe,family member; gender-neutral sibling,
+amlátama,,əmˈlatəma,noun,hamelátama,hamelatama,bedroom ,
+amnaráŋ,,amnəˈɾaŋ,adjective; adverb,hanomaráŋ,hanomaraŋ,melancholy ,
+amnéŋ,,əmˈneŋ,adjective; adverb,haminéŋ,hamineŋ,abstract ,
+amnú,,əmˈnu,verb,hamenú,hamenu,sleep,to fall asleep
+animú,,anɪˈmu,verb,hanimú,hanimu,give up ,
+ámro,,ˈamɾɔ,noun,ámmro,amomoro,Amro language,
+amyóŋ,,əmˈjoŋ,adjective; adverb,hamoyóŋ,hamoyoŋ,slow; gradual ,
+anampyáŋ,,anəmpjaŋ,adjective; adverb,hanambyáŋ,hanambiyaŋ,nighttime ,
+anaráŋ,,anəˈɾaŋ,adjective; adverb,hanaráŋ,hanaraŋ,sad; upset ,
+anášŋ,,əˈnaʃŋ̍,adjective; adverb,hanášŋ,hanaš'ŋ,different ,
+ánč,,ˈantʃ,preposition; adverb,ánča,anja,since,ever since
+ančánč,,ənˈtʃantʃ,noun,hančánč,hanjanj,finger; toe,colloquial
+ančántebuš,,ənˈtʃantɛbuʃ,noun,hančantebuš,hanjantebuš,toe ,
+ančárgaca,,ənˈtʃaɾɡətsa,noun,hančargacái,hanjargacai,leaf ,
+ančárgaš,,ənˈtʃaɾɡəʃ,noun,hančargáš,hanjargaš,hand ,
+ančú,,ənˈtʃu,verb,hančú,hanju,end; finish ,
+anháŋkinam,,ənˈhaŋkɪnãm,noun,hanohákinamo,hanohakinamo,victim; casualty ,
+amnavráŋ,,amnəˈvɾaŋ,adjective; adverb,hanimabairáŋ,hanimabairaŋ,black ,
+amnáye,,əmˈnajɛ,noun,hanimáye,hanimaye,darkness ,
+amnéŋka,,əmˈneŋkə,noun,haniménka,hanimenka,shadow; silhouette ,
+anórŋ,,əˈnoɾŋ̍,adjective; adverb,hanórŋ,hanor'ŋ,bad ,
+antewóm,,antɛˈwom,noun,hanutewóm,hanutewomba,shoe ,
+antóŋ,,ənˈtoŋ,adjective; adverb,hanotóŋ,hanotoŋ,old; aged ,
+anú,,əˈnu,verb,hanú,hanu,empty ,
+aŋkinám,,əŋkɪˈnam,noun,hanokinámo,hanokinamo,criminal; culprit; evildoer ,
+áŋkna,,ˈaŋknə,noun,ámkana,amokana,Amokana,
+apáŋ,,əˈpaŋ,adjective; adverb,hapáŋ,hapaŋ,unknown; secret ,
+aphadú,,aɸəˈdu,verb,hapadú,hapadu,not know ,
+aphí,,əˈɸi,preposition,hapí,hapi,outside ,
+aphíco,,əˈɸitso,preposition,hapíco,hapico,out of ,
+apláŋ,,əˈplaŋ,adjective; adverb,hapláŋ,hapalaŋ,abnormal; strange; weird ,
+aptoyú,,əptɔˈju,verb,hatepoyú,hatepoyu,fall,
+árga,,ˈaɾɡə,noun,árga,arga,grip ,
+argáš,,əɾˈɡaʃ,noun,argáš,argaš,arm ,
+argašú,,aɾɡəˈʃu,verb,argašú,argašu,hug; embrace,
+argú,,əɾˈɡu,verb,argú,argu,grab,
+arók,,əˈɾok,noun,haróka,har̄oka,chaos; disorder; pandemonium ,
+áš,,ˈaʃ,noun,áš,aš',equality; sameness ,
+áša,,ˈaʃə,preposition; adjective; adverb,háša,haša,without,
+áškva,,ˈaʃkvə,noun,ášavka,ašavka,organization; group ,
+ašníkŋ,,əʃˈnikŋ̍,adjective; adverb,hašuníkŋ,hašunik'ŋ,blind ,
+ašnikú,,aʃnɪˈku,verb,hašunikú,hašuniku,blind ,
+ášŋ,,ˈaʃŋ̍,adjective; adverb,ášŋ,aš'ŋ,same; equal ,
+ašoxú,,aʃɔˈχu,verb,haškoxú,haškoxu,relax; destress; calm,
+aspáŋ,,əsˈpaŋ,adjective; adverb,hacepáŋ,hacepaŋ,false; fake; untrue; fictional ,
+aspú,,əsˈpu,verb,hacepú,hacepu,fake; lie ,
+áf,,ˈaf,noun,áve,abe,wall,
+ávka,,ˈavkə,noun,ávka,abv'k',government; administration; leadership; head ,
+ávkike,,ˈavkɪkɛ,noun,ávkiŋke,abv'kiŋke,tax ,
+awómafle,,əˈwoməflɛ,noun,hawómaffle,hawomab'fle,underwear ,
+bacú,,bəˈtsu,verb,bacú,abacu,push,
+báfe,,ˈbafɛ,noun,báffe,babfe,sister ,
+bakrí,,bəˈkɾi,noun,bakrí,abakri,completion ,
+bakríŋ,,bəˈkɾiŋ,adjective; adverb,bakríŋ,abakriŋ,complete; full ,
+bakrú,,bəˈkɾu,verb,bakrú,abakru,complete,
+bál,,ˈbal,noun; pronoun,bála,bala,zero; nothing; none; no,
+bám,,bam,pronoun,bam,bamo,I; me ,
+bánto,,ˈbantɔ,noun,bánto,banto,attitude; spirit; principle ,
+banú,,bəˈnu,verb,banú,abanu,plan; prepare,
+basó,,bəˈso,noun,baséo,baseo,woman; female ,
+basóŋ,,bəˈsoŋ,adjective; adverb,baseóŋ,baseoŋ,female ,
+báskoš,,bəsˈkoʃ,noun,baskóvša,baskovša,wife ,
+bášŋ,,ˈbaʃŋ̍,adjective; adverb,bášŋ,baš'ŋ,surprised; impressed ,
+be,,bɛ,definite article,be,be,the ,
+bén,,ˈben,noun,béna,bena,situation; condition ,
+bíl,,ˈbil,noun,bílo,bilo,sugarcane ,
+bló,,ˈblo,noun,baló,balo,whole ,
+blóŋ,,ˈbloŋ,adjective; adverb,balóŋ,baloŋ,true; credible; correct; right; verified; official ,
+blór,,ˈbloɾ,noun,balór,abalor,advice; suggestion ,
+blórŋ,,ˈbloɾŋ̍,adjective; adverb,balórŋ,abalor'ŋ,right; correct; good,
+brá,,ˈbɾa,noun,burái,burai,place; location ,
+brášŋ,,ˈbɾaʃŋ̍,adjective; adverb,burášŋ,buraš'ŋ,close,close in proximity
+brú,,ˈbɾu,verb,burú,buru,locate; place,
+ča,,tʃə,preposition,ča,ča,for,"dedication, favor"
+cavár,,tsəˈvaɾ,noun,cabáira,cabaira,green ,
+cavráŋ,,tsəˈvɾaŋ,adjective; adverb,cabairáŋ,cabairaŋ,green ,
+čacú,,tʃəˈtsu,verb,čacú,jacu,chew; grind; crush; smash,
+cafít̄ŋ,,tsəˈfiθŋ̍,adjective; adverb,canfít̄ŋ,canfit̄'ŋ,eventually; sometime; ever,at some point
+cahí,,tsəˈhi,noun,cayí,cayi,fruit ,
+čálimne,,ˈtʃalɪmnɛ,noun,čálmine,čalmine,clay ,
+čalimnú,,tʃalɪmˈnu,verb,čalminú,čalminu,mold; shape; bend,
+čamtá,,tʃəmˈta,noun,čamtá,j'mta,furniture ,
+cán,,ˈtsan,noun,cán,can,something,
+cáŋ,,ˈtsaŋ,adjective; adverb,cáŋ,caŋ,some,something unspecified
+čáŋka,,ˈtʃaŋkə,noun,čámka,čam'ka,door; gate; portal ,
+čár,,ˈtʃaɾ,noun,ciyár,ciyar',game ,
+čarú,,tʃəˈɾu,noun,ciyarú,ciyaru,play,to have fun
+cáš,,ˈtsaʃ,noun,cáya,caya,period; interval,
+čáš,,ˈtʃaʃ,noun,čáš,jacuš,teeth ,
+čát̄,,ˈtʃaθ,noun,čát̄,jat̄,success ,
+čat̄ám,,tʃəˈθam,noun,čat̄ámo,jat̄amo,winner ,
+cát̄go,,ˈtsaθɡɔ,noun,cát̄ago,cat̄ago,cat; feline ,
+cat̄góŋ,,tsəθˈɡõŋ,adjective; adverb,cat̄agóŋ,cat̄agoŋ,feline ,
+čat̄ú,,tʃəˈθu,verb,čat̄ú,jat̄u,succeed; win,
+ce,,tsɛ,conjunction; preposition,ce,ce,as; than,compared to
+čé,,ˈtʃe,noun,čeyá,jeya,bone; foundation; framework ,
+céc,,ˈtsets,noun,céca,cec',line ,
+cecáŋ,,tsɛˈtsãŋ,adjective; adverb,cecáŋ,cec'ŋ,straight ,
+čel̠ál,,tʃɛˈʟal,adverb,čel̠al,jel̠al,likewise,
+čélm,,ˈtʃelm,noun,čélma,jel̠ma,excitement; stimulus ,
+čelmáŋ,,tʃɛlˈmaŋ,adjective; adverb,čelmáŋ,jelmaŋ,excited; stimulated; hyped; pumped ,
+čelmú,,tʃɛlˈmu,verb,čelmú,jelmu,excite ,
+cép,,ˈtsep,noun,cépa,cepa,reality; truth ,
+cí,,ˈtsi,noun,cí,ciy',action; task; job; project ,
+čífe,,ˈtʃifɛ,noun,tífe,tibfe,family; kin ,
+číkra,,ˈtʃikɾə,preposition,tíkra,tik'ra,towards; at; for ,
+cín,,ˈtsĩn,noun,cín,cin,version; edition; iteration ,
+čínta,,ˈtʃĩntə,noun,čínt,jint',rabbit ,
+čintú,,tʃɪnˈtu,verb,čintú,jintu,jump; leap ,
+cíŋ,,ˈtsĩŋ,adjective; adverb,cíŋ,ciŋ,one; certain,a specified thing
+čkóf,,ˈtʃkof,noun,čikóv,jikov,weather ,
+cóči,,ˈtsotʃi,adjective; adverb,cóči,coči,almost ,
+čóm,,ˈtʃõm,noun,čóm,čom,possession; bearing ,
+čomiplú,,tʃɔmɪˈplu,verb,čomipalú,čomipalu,comprise; contain; include,"to consist of, to be made up of"
+comnú,,tsɔmˈnu,verb,comenú,comenu,acknowledge; recognize; note ,
+čompéŋ,,tʃɔmˈpeŋ,adjective; adverb,čompéŋ,jompeŋ,comfortable; content; satisfied ,
+čompú,,tʃɔmˈpu,verb,čompú,jompu,comfort ,
+čomú,,tʃɔˈmu,verb,čomú,čomu,have; possess; bear ,
+čon,,tʃɔn,conjunction,čon,čon,or ,
+cop,,tsɔp,relative pronoun,cop,cop,that; which; who; whom; why,
+čopáf,,tʃɔˈpaf,conjunction,čopáv,jopav,instead; rather ,
+córŋ,,ˈtsoɾŋ̍,adjective; adverb,cwórŋ,cuor'ŋ,worse ,
+čovrú,,tʃɔvˈɾu,verb,čoverú,čoveru,throw ,
+ču,,tʃʊ,preposition,ču,ču,at ,
+čugán,,tʃʊˈɡan,noun,čugakana,kana-čugon,car,any land vehicle
+čugón,,tʃʊˈɡon,noun,čugón,čugon,glider; airplane; helicopter,any air vehicle
+čugú,,tʃʊˈɡu,verb,čugú,čugu,drive; operate; fly,
+cúwi,,ˈtsuwi,noun; adjective; adverb,cwí,cui,less,
+éci,,ˈetsi,noun,ecwí,ecui,least,
+cíga,,ˈtsiɡə,conjunction,cwíga,cuiga,less than ,
+ecíŋ,,ɛˈtsiŋ,adjective; adverb,ecwíŋ,ecuiŋ,least,
+čukt̄e,,ˈtʃukθɛ,preposition,čúkit̄e,čukit̄e,behind ,
+čumt̄a,,ˈtʃumθə,preposition,čúmit̄a,čumit̄a,in front of ,
+cuyú,,tsʊˈju,verb,cwiyú,cuiyu,decrease; fall ,
+dá,,da,noun; pronoun,da,da,it,
+dái,2,dai,noun; pronoun,dái,dai,two,
+dakáp,,dəˈkap,noun,dakáp,dapkap,order; demand ,
+dakapú,,dakəˈpu,verb,dapkapú,dapkapu,order; demand; command ,
+dám,,dam,pronoun,dam,damo,he; him; she; her; they; them ,
+dáŋ,,daŋ,adjective; adverb,udáŋ,dudaŋ,percussive; rhythmic ,
+dáp,,dap,noun,dáp,dap,question; request ,
+dapád,,dəˈpad,noun,dahapád,dahapad,mystery; question ,
+dapádŋ,,dəˈpadŋ̍,adjective; adverb,dahapádŋ,dahapad'ŋ,mysterious; unknown ,
+dáphalo,,ˈdaɸlɔ,noun,dáipalo,daipalo,half ,
+daphibú,,daɸɪˈbu,verb,dapibú,dapibu,invite ,
+daphíp,,dəˈɸip,noun,dapíb,dapib',invitation ,
+dapú,,dəˈpu,verb,dapú,dapu,ask; request; wonder ,
+dé,7,de,noun; pronoun,dé,de,seven,
+déa,,deə,conjunction,adéa,adea,also; too; as well,
+démpya,,ˈdempjə,noun,démbya,dembiya,week ,
+di,,dɪ,conjunction,di,di,and ,
+divámpya,,dɪˈvampjə,noun,dibámbya,dibambiya,yesterday ,
+diváŋ,,dɪˈvaŋ,adjective; adverb,dibáŋ,dibaŋ,previous; previously ,
+diváš,,dɪˈvaʃ,preposition,dibáš,dibaš',before ,
+divášda,,dɪˈvaʃdə,adjective; adverb,dibáššedai,dibaš'sedai,A.M. ,
+divášŋ,,dɪˈvaʃŋ,adjective; adverb,dibášŋ,dibaš'ŋ,early ,
+dífe,,ˈdifɛ,noun,díffe,dibfe,brother ,
+dikóš,,dɪˈkoʃ,noun,dikóvša,dikovša,husband ,
+divá,,dɪˈva,noun,dibá,diba,previous,
+do,,dɔ,preposition,do,do,for,in order to; for the purpose of 
+dógo,,ˈdoɡɔ,conjunction,dogo,dogo,in case; lest ,
+dóphyŋ,,ˈdoɸjŋ̍,adjective; adverb,dóbyŋ,dobiy'ŋ,safe; secure; protected ,
+dophyú,,dɔˈɸju,verb,dobyú,dobiyu,defend; protect ,
+dóvgo,,ˈdovɡɔ,noun,dóbigo,dobigo,arthropod; bug; insect ,
+dú,,du,verb,udú,dudu,drum,to hit a drum or hit something like a drum
+dudá,,dʊˈda,noun,dúda,duda,drum ,
+dyá,,ɟa,noun,dyá,diya,group ,
+dyafít̄,,ɟəˈfiθ,noun,udyafít̄,dudiyafit̄,tempo; beat ,
+dyám,,ɟam,pronoun,dyam,dyamo,each other,one another within a group
+dyéke,,ˈɟekɛ,noun,adyébke,aidyebke,statistics; data,
+é,6,e,noun; pronoun,é,e,six,
+éca,,ˈetsə,noun,écai,ecai,tree ,
+érgo,,ˈeɾɡɔ,noun,érago,erago,dog ,
+ergóŋ,,ɛɾˈɡoŋ,adjective; adverb,eragóŋ,eragoŋ,canine ,
+és,,es,noun,ésa,es',size; growth ,
+éskitup,,ˈeskɪtʊp,noun,éskitub,eskitub,college; university ,
+éskri,,ˈeskɾɪ,preposition,éskri,eskri,throughout; around; surrounding ,
+ésplo,,ˈesplɔ,noun,ésipalo,esipalo,character; nature; core characteristic ,
+ézve,,ˈesvɛ,conjunction,ésuve,esuve,as if; as though ,
+ét̄o,,ˈeθɔ,preposition,et̄o,et̄o,along ,
+ézbafe,,ˈezbəfe,noun,esbáffe,esbabfe,mother ,
+ézdife,,ˈezdɪfe,noun,esdíffe,esdibfe,father ,
+fánta,,ˈfantə,noun,fánta,fanta,decision; choice ,
+fantáŋ,,fənˈtaŋ,adjective; adverb,fantáŋ,fantaŋ,chosen ,
+fantú,,fənˈtu,verb,fantú,fantu,decide; pick; choose ,
+fít̄,,fiθ,noun,fít̄,fit̄',time; occurrence; instance; occasion ,
+fit̄ámpe,,fɪˈθampɛ,noun,fit̄ámpe,fit̄ampe,rhythm ,
+fit̄ámpya,,fɪˈθampjə,adjective; adverb,fit̄ámbya,fit̄ambiya,today ,
+fit̄ó,,fɪˈθo,noun,fit̄ó,fit̄o,middle; center ,
+fit̄óš,,fɪˈθoʃ,noun,fit̄óš,fit̄oš,chest; thorax ,
+fit̄ói,,fɪˈθoi,noun; adverb,fit̄óya,fit̄oya,present; now; currently ,
+fit̄ú,,fɪˈθu,verb,fit̄ú,fit̄u,happen; occur ,
+fivú,,fɪˈvu,verb,bapibú,bapibu,leave,to leave behind
+flákra,,ˈflakɾə,noun,flákra,flak'r',river; stream; waterway ,
+flál̠,,flaʟ,noun,falál̠,falal,surface; face ,
+flal̠ú,,fləˈʟu,verb,falal̠ú,falalu,scan; survey ,
+fláŋ,,flaŋ,adjective; adverb,faláŋ,falaŋ,shallow; surface-level ,
+flátephi,,ˈflatɛɸɪ,noun,flátepoi,flatepoi,rain; waterfall ,
+flátiplo,,ˈflatɪplɔ,noun,flatepípalo,flatepipalo,raindrop ,
+flé,,fle,noun,aflé,b'fle,fabric,
+fléŋ,,fleŋ,adjective; adverb,afléŋ,ab'fleŋ,fabric; knitted,
+flú,,flu,verb,flú,b'flu,sew; knit,
+flúmne,,ˈflumnɛ,noun,flúmine,flumine,water; liquid ,
+flumnú,,flʊmˈnu,verb,flumonú,flumonu,drink ,
+flumóŋ,,flʊˈmoŋ,adjective; adverb,flumóŋ,flumoŋ,thirsty ,
+fluvár,,flʊˈvaɾ,noun,flubáira,flubaira,blue ,
+fluvráŋ,,flʊˈvɾaŋ,adjective; adverb,flubairáŋ,flubairaŋ,blue ,
+frósko,,ˈfɾoskɔ,noun,frósko,for̄osko,morality; conscience ,
+froskóŋ,,fɾɔsˈkoŋ,adjective; adverb,froskóŋ,for̄oskoŋ,moral ,
+froskú,,fɾɔsˈku,verb,froskú,for̄osku,moralize,to make a moral decision
+ga,,ɡə,conjunction,ga,ga,than,
+gávra,,ˈɡavɾə,pronoun; adjective; adverb,gáburai,gaburai,where ,
+gáča,,ˈɡatʃə,pronoun; adjective; adverb,gácaya,gacaya,how long,how long
+gáge,,ˈɡaɡɛ,pronoun; adjective; adverb,gáge,gage,what ,
+gágo,,ˈɡaɡɔ,pronoun; adjective; adverb,gágo,gago,what if,
+gayíŋ,,ɡəˈjiŋ,adjective; adverb,gyáiŋ,gyaiŋ,especially; particularly ,
+gákra,,ˈɡakɾə,pronoun; adjective; adverb,gákra,gak'r',which way ,
+gám,,ɡam,pronoun; adjective; adverb,gámo,gamo,who ,
+gámt̄yo,,ˈɡamθjɔ,pronoun; adjective; adverb,gámat̄yo,gamat̄iyo,how,what feeling
+ganomú,,ɡanɔˈmu,verb,gyanomú,gyanomu,overthink ,
+gáŋe,,ˈɡaŋɛ,pronoun; adjective; adverb,gábŋe,gab'ŋe,how much ,
+gárka,,ˈɡaɾkə,pronoun; adjective; adverb,gárika,gar̄ika,how,what cause/method
+gašóŋ,,ɡəˈʃoŋ,adjective; adverb,gyašóŋ,gyašoŋ,easy ,
+gašú,,ɡəˈʃu,verb,gyašú,gyašu,facilitate; assist; ease; expedite,
+gat̄ošéŋ,,ɡaθɔˈʃeŋ,adjective; adverb,gyat̄ošéŋ,gyat̄ošeŋ,too much ,
+gáxon,,ˈɡaχɔn,pronoun; adjective; adverb,gáxon,gaxon,what sound ,
+gáyakn,,ˈɡajəkn̍,pronoun; adjective; adverb,gáyakn,gayak'n,when,"also ""at what point"""
+gážko,,ˈɡaʒkɔ,pronoun; adjective; adverb,gážuko,gažuko,why ,
+gíroven,,ˈɡiɾɔven,adjective; adverb,gíronbena,gironbena,either way; anyway ,
+go,,ɡɔ,conjunction,go,go,if ,
+gwacú,,ɡwaˈtsu,verb,gohaicú,gohaicu,tempt; attract; seduce ,
+govár,,ɡɔˈvaɾ,noun,gobáira,gobaira,red ,
+govráŋ,,ɡɔˈvɾaŋ,adjective; adverb,gobairáŋ,gobairaŋ,red ,
+govušóŋ,,ɡobʊˈʃoŋ,adjective; adverb,gotebušóŋ,gotebušoŋ,mobile; moveable ,
+gocár,,ɡɔˈtsaɾ,noun,gocár,gocar',satisfaction ,
+gocarú,,ɡotsəˈɾu,verb,gocarú,gocaru,satisfy; please,to make happy
+gócŋ,,ˈɡotsŋ̍,adjective; adverb,gócŋ,goc'ŋ,forced; forceful; hard ,
+gočók,,ɡɔˈtʃok,noun,gočók,gojok,blood; essence ,
+gocú,,ɡɔˈtsu,verb,gocú,gocu,make; force; compel,
+goxác,,ɡɔˈhats,noun,goháic,gohaic',temptation; seduction; attraction ,
+gorú,,ɡɔˈɾu,verb,gyorú,gyoru,improve; better ,
+gosekú,,ɡosɛˈku,verb,gocaxekú,gocaxeku,damage; hurt; harm ,
+gósphi,,ˈɡosɸɪ,noun,góspi,gospi,necessity; need ,
+gosphibú,,ɡosɸɪˈbu,verb,gocapibú,gocapibu,dismiss; kick out; ban ,
+gosphíŋ,,ɡɔsˈɸiŋ,adjective; adverb,gospíŋ,gospiŋ,necessary ,
+gosprú,,ɡɔsˈpɾu,verb,gosprú,gospiru,need ,
+got̄anú,,ɡoθəˈnu,verb,gotehanú,gotehanu,kill; destroy ,
+gotvú,,ɡotˈvu,verb,gotebú,gotebu,move; transport ,
+gramíŋ,,ɡɾəˈmiŋ,adjective; adverb,geramíŋ,geramiŋ,heavy; dense ,
+grámne,,ˈɡɾamnɛ,noun,gerámine,geramine,matter; substance; weight ,
+gratikú,,ɡɾatɪˈku,verb,geratikú,geratiku,familiarize; adjust,to get used to/accustomed to
+gráva,,ˈɡɾavə,noun,gerába,geraba,thing; object ,
+grón,,ɡɾon,conjunction,girón,giron,either; any ,
+guné,,ɡʊˈne,noun,gúrne,gur'ne,bear ,
+há,,ha,noun,há,ha,hole; void; emptiness; negative ,
+hávrašŋ,,ˈhavɾəʃŋ̍,adjective; adverb,haburášŋ,haburaš'ŋ,far,"location, as in far away"
+hácam,,ˈhatsəm,noun,haceciyámo,haceciyamo,actor; actress; pretender ,
+hádivaš,,ˈhadɪvaʃ,preposition,hadibáš,hadibaš',after ,
+háf,,haf,noun,háfo,hafo,right; freedom; liberty ,
+hágron,,ˈhaɡɾɔn,conjunction,hagirón,hagiron,neither ,
+akošáŋ,,hakɔˈʃaŋ,adjective; adverb,hatokovšáŋ,hatokovšaŋ,separate; apart ,
+hákvoša,,ˈhakvɔʃa,preposition,hakóvša,hakovša,except; not including ,
+hámt̄yo,,ˈhamθjɔ,noun,hanmát̄yo,hanomat̄iyo,ennui,"a feeling of lack of passion, meaning, care, or interest behind one's words or actions "
+hámta,,ˈhamtə,noun,hamtá,ham'ta,bed ,
+hán,,han,adjective; adverb,hána,hana,not ,
+hánampya,,ˈhanəmpja,noun,hanámbya,hanambiya,night ,
+hánč,,hantʃ,noun,hánč,hanja,end; finish; tip ,
+hánor,,ˈhanɔɾ,noun,hanór,hanor',badness; evil; misfortune; darkness ,
+hántevuš,,ˈhantɛvuʃ,noun,hánutebuš,hanutebuš,foot ,
+háŋ,,ˈhaŋ,adjective; adverb,háŋ,haŋ,negative; anti ,
+háŋka,,ˈhaŋkə,adjective; adverb,hánaka,hanaka,never ,
+háš,,haʃ,noun,háš,haš,lack; disability ,
+háškok,,ˈhaʃkɔk,noun,haškóx,haškox,relaxation ,
+háspam,,ˈhaspəm,noun,hacepámo,hacepamo,faker; liar; fraud ,
+huma,,humə,preposition,hawóma,hawoma,under; below ,
+humašú,,huməˈʃu,verb,hawomašú,hawomašu,skin; peel ,
+háuna,,ˈhaunə,preposition,hawína,hawina,off ,
+híčke,,ˈhitʃkɛ,noun,ohíčke,ohičike,telephone; walkie-talkie ,
+hú,,hu,verb,ohú,ohu,talk; converse ,
+í,,i,noun,íya,iya,food ,
+íčke,,ˈitʃkɛ,noun,íčke,ičike,tool; appliance; device ,
+idéo,,ɪˈdeɔ,noun,idéo,dideo,man; male ,
+idóŋ,,ɪˈdoŋ,adjective; adverb,ideóŋ,dideoŋ,male ,
+ík,,ik,noun,ík,ik,image; picture; sight; appearance ,
+íkor,,ˈikɔɾ,noun,ikór,aikor,example; instance ,
+ikrú,,ɪkˈɾu,verb,ikorú,aikoru,exemplify ,
+inák,,ɪˈnak,noun,ikanáka,ikanaka,artwork; visual art ,
+íphamro,,ˈiɸəmɾɔ,noun,ípipamro,ipipamoro,letter; glyph; symbol ,
+íphsa,,ˈiɸsə,noun,ípicai,ipicai,grass ,
+íphya,,ˈiɸjə,noun,ípaya,ipaya,hour ,
+íplo,,ˈiplɔ,noun,ípalo,ipalo,part; piece; element; property; aspect; characteristic ,
+íplokan,,ˈiplɔkan,noun,ípalokana,ipalokana,state; province; county ,
+kál,,kal,noun,káol,kaol,eagle ,
+kalšú,,kəlˈʃu,verb,kalaciyú,kalaciyu,continue; persist; persevere ,
+kalú,,kəˈlu,verb,kallú,kalalu,keep; maintain; remain; stay ,
+kám,,kam,pronoun,kam,kamo,they; them,plural
+káma,,ˈkamə,noun,kám,kam,creation ,creation as an activity that one does; mortal creation
+kamám,,kəˈmam,noun,kamámo,kamamo,child; offspring; person ,
+kamcíŋ,,kəmˈtsiŋ,adjective; adverb,kamacíyŋ,kamaciy'ŋ,improved; developed ,
+kámne,,ˈkamnɛ,noun,kánmine,kanamine,ground; earth; soil; land ,
+kamnóm,,kəmˈnom,noun,kamnómi,kamnomi,creativity ,
+kamóca,,kəˈmotsə,noun,kamocái,kamocai,stem ,
+kámpya,,ˈkampjə,noun,kámbya,kambiya,birthday ,
+kamšú,,kəmˈʃu,verb,kamaciyú,kamaciyu,improve; develop ,
+kamú,,kəˈmu,verb,kamú,kamu,create; make ,
+kamxón,,kəmˈχon,noun,kanomxón,kanomoxon,song; recording; tape; track,
+kán,,kan,noun,kána,kana,country; nation; land; territory; area ,
+kánafle,,ˈkanəfle,noun,kánaffle,kanab'fle,flag; banner ,
+kanánč,,kəˈnantʃ,noun,kanahánč,kanahanja,border,border between countries/territories
+kanmík,,kənˈmik,noun,kanomík,kanomik,photograph ,
+kanóm,,kəˈnom,noun,kanóm,kanomi,memory; recording ,
+kanomú,,kanɔˈmu,verb,kanomú,kanomu,remember; record; recognize ,
+káŋ,,kaŋ,adjective; adverb,kámŋ,kam'ŋ,manmade; artificial; constructed ,
+kár,,kaɾ,noun,kár,kar',work; labour; job ,
+káze,,ˈkazɛ,noun,kárze,kar'ze,way; style ,
+ké,,ke,noun,kék,kek,value; worth; cost ,monetary value
+kéfka,,ˈkefkə,noun,kévka,kev'ka,company; business ,
+kekú,,kɛˈku,verb,kekú,keku,cost,to be worth
+kékva,,ˈkekva,noun,kékoba,kekoba,money ,
+kešnú,,kɛʃˈnu,verb,kešunú,kešunu,afford ,
+kíčke,,ˈkitʃkɛ,noun,ikíčke,ikičike,television ,
+kidám,,kɪˈdam,noun,kidámo,kidamo,student; scholar; learner ,
+kidú,,kɪˈdu,verb,kidú,kidu,learn; study ,
+kidyá,,kɪˈɟa,noun,kídya,kidiya,class,group of students
+kifú,,kɪˈfu,verb,kifú,kifu,allow; free,
+kiknú,,kɪkˈnu,verb,kidkinú,kidkinu,teach; instruct; describe; show; explain,
+kinsú,,kɪnˈsu,verb,kinusú,kinusu,reward ,
+kinú,,kɪˈnu,verb,kinú,kinu,give; hand ,
+knuké,,knʊˈke,noun,kinuké,kinuke,business; trade ,
+knukéŋ,,knʊˈkeŋ,adjective; adverb,kinukéŋ,kinukeŋ,economic ,
+knukú,,knʊˈku,verb,kinukekú,kinukeku,trade; deal,
+kiŋké,,kɪŋˈke,noun,kiŋké,kinke,fee; price ,
+kiŋkú,,kɪŋˈku,verb,kiŋkekú,kinkeku,buy; pay ,
+kírana,,ˈkiɾəna,noun,kíranai,kiranai,deer; elk ,
+kíšla,,ˈkiʃlə,noun,kísla,kisla,blade; cutter,any sharp object
+kišlú,,kɪʃˈlu,verb,kíslú,kislu,cut; slice ,
+kít,,kit,noun,kíd,kid,learning; knowledge; class; course; study; science ,
+kit̄ámpya,,kɪˈθampjə,noun,kit̄ámbya,kit̄ambiya,morning ,
+kit̄aphyú,,kiθəˈɸju,verb,kit̄aipyú,kit̄aipiyu,miss; long,
+kit̄é,,kɪˈθe,noun,kit̄é,kit̄e,back ,
+kit̄éa,,kɪˈθeə,noun,kit̄éya,kit̄eya,past ,
+kit̄éš,,kɪˈθeʃ,noun,kit̄éš,kit̄eš,back,body part
+kítup,,ˈkitʊp,noun,kitúb,kitub,school,any place of learning
+kit̄yáŋ,,kɪθˈjaŋ,adjective; adverb,kit̄eyáŋ,kit̄eyaŋ,ago; past,
+kížl̠aš,,ˈkiʒʟəʃ,noun,kižl̠áš,kiž'l̠aš,fur; pelt ,
+kl̠ám,,kʟam,noun,kol̠ámo,akol̠amo,king; lord; leader; person of power ,
+kl̠ámkan,,ˈkʟamkən,noun,kol̠ámokana,akol̠amokana,kingdom; dynasty; empire ,
+kláŋ,,klaŋ,adjective; adverb,kaláŋ,kalaŋ,forever; eternal; maintained; permanent ,
+kl̠áŋ,,kʟaŋ,adjective; adverb,kol̠áŋ,akol̠aŋ,powerful; strong ,
+klátama,,ˈklatəma,noun,kilátama,kilatama,classroom ,
+klígemne,,ˈkliɡɛmne,noun,klígemine,kligemine,slime ,
+kl̠ú,,kʟu,verb,kol̠ú,akol̠u,rule; govern; control,
+kól̠,,koʟ,noun,kól̠a,akol̠a,power; influence,
+kóm,,kom,noun,kóm,akom,creature; organism ,
+komcá,,kɔmˈtsa,noun,komcái,akomcai,plant ,
+komcú,,kɔmˈtsu,verb,komcú,akomcu,plant ,
+komxú,,kɔmˈχu,verb,komoxú,komoxu,shout; yell; scream; bark ,
+konášŋ,,kɔˈnaʃŋ̍,adjective; adverb,konášŋ,konaš'ŋ,many different; various; myriad ,
+koŋgó,,kɔŋˈɡo,noun,komgó,akomgo,animal ,
+kopšík,,kɔpˈʃik,noun,kopsík,kopsik,search; investigation ,
+kopškú,,kɔpˈʃku,verb,kopsikú,kopsiku,look; search; investigate ,
+kór,,koɾ,noun,kór,kor',presentation; showing ,
+korú,,kɔˈɾu,verb,korú,koru,show; present ,
+kótup,,ˈkotʊp,noun,kotúb,kotub,town ,
+kóvša,,ˈkovʃə,preposition,kóvša,kovša,including ,
+krá,,kɾa,noun,krái,k'rai,sense; feeling ,
+kramyú,,kɾəmˈju,verb,kramayú,k'ramayu,confuse; confound ,
+kranú,,kɾəˈnu,verb,kranú,k'ranu,read ,
+kráŋ,,kɾaŋ,adjective; adverb,kráŋ,k'raŋ,readable; legible; literate ,
+krayú,,kɾəˈju,verb,krayú,k'rayu,sense; feel ,
+kráyuš,,kɾaˈjʊʃ,noun,kráyuš,k'rayuš,nerves; nervous system ,
+kret̄ú,,kɾɛˈθu,verb,koret̄ú,koret̄u,guide; show ,
+krí,,kɾi,preposition,krí,k'ri,through ,
+kríka,,ˈkɾikə,noun,kríka,k'rika,way; technique; process ,
+krikú,,kɾɪˈku,verb,krikú,k'riku,look through; search; scan ,
+krú,,kɾu,verb,karú,karu,work ,
+kú,,ku,verb,ikú,iku,see; watch; look,
+kudiváš,,kudɪˈvaʃ,adjective; adverb,kudibáš,kudibaš',then; soon after ,
+kuphyakáŋ,,kuɸjəˈkaŋ,adjective; adverb,kubyakáŋ,kubiyakaŋ,right away; immediately ,
+kúš,,kuʃ,noun,ikúš,ikuš,eye ,
+kuté,,kʊˈte,noun,kúte,kutei,nut,Specifically the kute nuts of central Romulus
+kuvyáŋ,,kuvˈjaŋ,adjective; adverb,kubiyáŋ,kubiyaŋ,soon ,
+kvamóŋ,,kvəˈmoŋ,adjective; adverb,kovamóŋ,kovamoŋ,social ,
+kvifyébke,,kvɪˈfjebkɛ,noun,kovipyébke,kovipiebke,list ,
+kvinápta,,kvɪˈnaptə,noun,kovinápta,kovinap'ta,couch ,
+kvíno,,ˈkvino,adjective; noun; adverb,kovíno,kovino,many; much; a lot; very,
+kvinyáno,,kvɪˈɲano,adjective,kovinyáno,koviniyano,several; multiple; some ,
+kvípamro,,ˈkvipəmɾo,noun,kovípamro,kovipamoro,sentence ,
+kvíplo,,ˈkviplɔ,noun,kevípalo,kevipalo,stock ,
+kvixóŋ,,kvɪˈχoŋ,adjective; adverb,kovixóŋ,kovixoŋ,loud ,
+kvokíŋ,,kvɔˈkiŋ,adjective; adverb,kovkíŋ,kov'kiŋ,expensive ,
+kyá,,ca,noun,gyá,gya,more,
+kyága,,ˈcaɡə,conjunction,gyága,gyaga,more than ,
+kyakú,,cəˈku,verb,kyakú,kiyaku,burn ,
+kyámne,,ˈcamnɛ,noun,kyámine,kiyamine,fire ,
+kyáŋ,,caŋ,adjective; adverb,gyáŋ,gyaŋ,more,
+kyášŋ,,ˈcaʃŋ̍,adjective; adverb,gyášŋ,gyaš'ŋ,similar; close ,
+kyát̄o,,ˈcaθɔ,adjective; adverb,gyát̄o,gyat̄o,too,"as in ""too loud"" or ""too kind"""
+kyavráŋ,,cəˈvɾaŋ,adjective; adverb,kyabaráŋ,kiyabairaŋ,orange ,
+kyaxaláŋ,,caχəˈlaŋ,adjective; adverb,kyaxaláŋ,kiyaxalaŋ,hot ,
+kyaxaŋkóf,,caχəŋˈkof,noun,kyaxámpakov,kiyaxampakov,summer ,
+kyó,,co,noun,kyo,kiyo,power; exponent ,
+kyórŋ,,ˈcoɾŋ̍,adjective; adverb,gyórŋ,gyor'ŋ,better ,
+kyú,,cu,verb,gyú,gyu,increase; rise ,
+lavác,,ləˈvats,noun,bilabác,bilabac',cookie ,
+lagán,,ləˈɡan,noun,lagán,lagan,muscle ,
+lái,,lai,noun,uláya,ulaya,month ,
+l̠akár,,ʟəˈkaɾ,noun,l̠akáro,l̠'karo,name; title ,
+lakómna,,ləˈkomnə,noun,lakómna,lakomna,purpose; will; significance ,
+l̠akrú,,ʟəˈkɾu,verb,l̠akarú,l̠'karu,name; call ,
+lamrí,,ləmˈɾi,noun,lamári,lamari,party; celebration; festival; carnival ,
+lamrú,,ləmˈɾu,verb,lamarú,lamaru,party; celebrate ,
+l̠anl̠ú,,ʟənˈʟu,verb,l̠anil̠ú,l̠anil̠u,reach; extend ,
+látama,,ˈlatəma,noun,látama,latama,room ,
+l̠ekál,,ʟɛˈkal,noun,l̠ekál,l̠ekal,measure; scale ,
+l̠eklú,,ʟekˈlu,verb,l̠ekalú,l̠ekalu,measure ,
+lexó,,lɛˈχo,noun,lénxo,lenxo,sickness; plague; disease; virus ,
+lí,,li,adverb,lí,li,yes,
+likapú,,likəˈpu,verb,lipkapú,lipkapu,obey; comply,
+líŋ,,liŋ,adjective; adverb,líŋ,liŋ,sure; certain ,
+líplo,,ˈliplɔ,noun,bilípalo,bilipalo,sugar,sugar granule
+le,,lɛ,preposition,loé,loe,between ,
+l̠ókm,,ˈʟokm̩,noun,lókm,lokm,Loqm ,
+lóma,,ˈlomə,noun,lóma,loma,egg; embryo ,
+lomcá,,lɔmˈtsa,noun,lomcái,lomcai,seed; bean; grain ,
+lomsayá,,lomsəˈja,noun,lomcáya,lomcaya,bread; cracker,"any food made with grains, seeds or beans"
+l̠óna,,ˈʟonə,noun,l̠óna,l̠ona,mistake; error; accident ,
+l̠yám,,ʟjam,noun,l̠oyám,l̠oyam,left ,
+lyú,,lju,verb,liyú,liyu,agree ,
+mái,,mai,noun,imáye,imaye,light ,
+míŋ,,miŋ,adjective; adverb,imayéŋ,imayeŋ,bright; light; shiny ,
+máŋ,,maŋ,adjective; adverb,omáŋ,omaŋ,long ,
+máš,,maʃ,,máže,maje,,
+mat̄icá,,maθɪˈtsa,noun,mat̄icái,mat̄icai,flower ,
+mat̄icú,,maθɪˈtsu,verb,mat̄icú,mat̄icu,flower; bloom; blossom ,
+mat̄ík,,məˈθik,noun,mat̄ík,mat̄ik,beauty ,
+mat̄yó,,məˈθjo,noun,mat̄yó,mat̄iyo,emotion ,
+mat̄yóš,,məˈθjoʃ,noun,mat̄yóš,mat̄iyoš,heart; core; feelings; love ,
+mat̄yú,,məˈθju,verb,mat̄yú,mat̄iyu,feel,To feel an emotion
+myú,,mju,verb,imayú,imayu,brighten; shine; polish ,
+mbaráŋ,,mbəˈɾaŋ,adjective; adverb,imabairáŋ,imabairaŋ,white ,
+mbóf,,mbof,noun,bamóv,abamov,spread; scattering; growth ,
+mbóvŋ,,ˈmbovŋ̍,adjective; adverb,bamóvŋ,abamov'ŋ,scattered; spread; spilled ,
+mbovú,,mbɔˈvu,verb,bamovú,abamovu,scatter; spread; spill,
+mbú,,mbu,verb,bamú,abamu,put,
+mío,,mio,noun,méo,ameo,gender; person (gender-neutral),
+mise,,mɪˈsɛ,conjunction,miséi,misei,unless ,
+mit̄á,,mɪˈθa,noun,mit̄á,mit̄a,front ,
+mit̄ái,,mɪˈθai,noun,mit̄áya,mit̄aya,future ,
+mit̄ámpya,,mɪˈθampjə,noun,mit̄ámbya,mit̄ambiya,afternoon ,
+mit̄yáŋ,,mɪˈθjaŋ,adjective; adverb,mit̄ayáŋ,mit̄ayaŋ,in the future ,
+mné,,mne,noun,miné,mine,element; substance; material ,
+mnekamáf,,mnekəˈmaf,noun,minekamába,minekamaba,builder,thing
+mnekamám,,mnekəˈmam,noun,minekamámo,minekamamo,builder,person
+mnekamú,,mnekəˈmu,verb,minekamú,minekamu,build ,
+mnéŋ,,mneŋ,adjective; adverb,minéŋ,mineŋ,physical; concrete ,
+mnú,,mnu,verb,menú,menu,wake,To be awake
+mŋé,,mŋe,noun,bŋé,b'ŋe,amount ,
+mokíčke,,mɔˈkitʃkɛ,noun,imotikíčke,aimotikičike,computer ,
+mol̠gám,,mɔʟˈɡam,noun,mol̠gám,mol̠gam,debt; favor; request; contract ,
+mol̠gámŋ,,mɔʟˈɡamŋ̍,adjective; adverb,mol̠gámŋ,mol̠gam'ŋ,indebted; bound ,
+mol̠gamú,,moʟɡəˈmu,verb,mol̠gamú,mol̠gamu,owe,to be indebted to
+moŋkú,,mɔŋˈku,verb,monakú,monaku,sing ,
+móŋ,,moŋ,adjective; adverb,meóŋ,ameoŋ,gender neutral; non-binary,
+moŋkám,,mɔŋˈkam,noun,monakámo,monakamo,singer ,
+mór,,moɾ,noun,mór,moro,language; script ,
+móš,,moʃ,noun,móš,amoš,body; form ,
+móša,,ˈmoʃa,noun,amóvša,amovša,partner; significant other ,
+motephšú,,motɛɸˈʃu,verb,motebušú,motebušu,run ,
+motí,,mɔˈti,noun,imotíg,aimotik,calculation; computation ,
+motík,,mɔˈti,noun,motík,amotik,meeting; introduction ,
+imotikáf,,imɔˈtik,noun,imotikába,aimotikaba,calculator ,
+imotikú,,ɪmotɪˈku,verb,imotikú,aimotiku,calculate; compute ,
+motikú,,motɪˈku,verb,motikú,amotiku,meet ,
+motíŋ,,mɔˈtiŋ,adjective; adverb,amotíkŋ,amotik'ŋ,met; familiar ,
+movári,,mɔˈvaɾɪ,noun,movári,movari,here ,
+mováta,,mɔˈvatə,noun,mováta,movata,there ,
+mové,,mɔˈve,noun,mové,move,everywhere ,
+moxón,,mɔˈχon,noun,moxón,moxon,voice ,
+myóŋ,,mjoŋ,adjective; adverb,moyóŋ,moyoŋ,fast; rapid; quick; sharp ,
+mbé,,mbe,noun,mpé,'mpe,pattern; sequence ,
+mróš,,mɾoʃ,noun,mróš,moroš,tongue ,
+mtá,,mta,noun,bamtá,b'mta,table ,
+mtóč,,mtotʃ,adjective; adverb,matóč,matoj,regardless; anyway; anyhow ,
+mtú,,mtu,verb,bamtú,b'mtu,set,to set the table
+mú,,mu,verb,omú,omu,lengthen ,
+naftú,,nəfˈtu,verb,nafetú,nafetu,deal with ,
+nák,,nak,noun,unáka,uŋaka,art ,
+níšimne,,ˈniʃɪmne,noun,nísimine,nisimine,ice ,
+nišláŋ,,nɪʃˈlaŋ,noun,nisiláŋ,nisilaŋ,cold ,
+nokáo,,noˈkao,noun,nokáho,nokaho,voice; say; input; power ,
+nomámš,,nɔˈmamʃ,noun,nomámoš,nomamoš,self; spirit; soul ,
+nomí,,nɔˈmi,noun,nomí,nomi,thought; idea; view; perspective ,
+nomíš,,nɔˈmiʃ,noun,nomíš,nomiš,head; mind; brain ,
+nomkit̄yáŋ,,nomkɪθˈjaŋ,adjective; adverb,nomkit̄eyáŋ,nomkit̄eyaŋ,nostalgic; reminiscent ,
+nomói,,nɔˈmoi,noun,nomóhe,nomohe,rumor; legend ,
+nomóš,,nɔˈmoʃ,noun,nommoš,nomimoš,interest; passion ,
+nomtikú,,nɔmtɪˈku,verb,nomotikú,nomotiku,figure out; determine,
+nomú,,nɔmu,verb,nomú,nomu,believe; think ,
+not̄phyú,,nɔθˈɸju,verb,not̄apyú,not̄apiyu,wish; hope; will ,
+not̄phí,,nɔθˈɸi,noun,not̄apí,not̄api,hope; will; wish ,
+noxú,,nɔˈχu,verb,nokahú,nokahu,express,"To behave outwardly, to speak out"
+inú,,ɪnu,verb,inú,inu,exist,
+nú,,nu,verb,onú,onu,add ,
+oblú,,ɔbˈlu,verb,obalú,obalu,promise; swear ,
+ói,,oi,noun,óhe,ohe,conversation ,
+óm,,om,noun,óma,oma,length ,
+ón,,on,noun,ón,on,addition ,
+onskváŋ,,ɔnsˈkvaŋ,adjective; adverb,onskaváŋ,onskavaŋ,another ,
+óŋ,,oŋ,adjective; adverb,óŋ,oŋ,additional ,
+ór,,oɾ,noun,ór,or',goodness; wellness; fortune ,
+óram,,oɾəm,noun,orámo,oramo,friend ,
+órŋ,,oɾŋ̍,adjective; adverb,órŋ,or'ŋ,good ,
+otám,,ɔˈtam,noun,hotámo,hotamo,child; baby; novice; beginner ,
+otamsá,,otəmˈsa,noun,hotamcái,hotamocai,sprout ,
+otváŋ,,otˈvaŋ,adjective; adverb,hotibáŋ,hotibaŋ,recently; just ,
+otikú,,otɪˈku,verb,hotikú,hotiku,find; discover,
+otóŋ,,ɔˈtoŋ,adjective; adverb,hotóŋ,hotoŋ,new; recent; modern ,
+pádŋ,,ˈpadŋ̍,adjective; adverb,pádŋ,pad'ŋ,known; understood; familiar; knowledgeable ,
+pái,4,pai,noun; pronoun,pái,pai,four ,
+pakóf,,pəˈkof,noun,ipakóv,ipakov,season ,
+pámro,,ˈpamˈɾɔ,noun,ipámro,ipamoro,word ,
+pán,,pan,noun,upáni,upani,experience ,
+pát,,pat,noun,pád,pad,knowledge; familiarity ,
+páti,,ˈpatɪ,conjunction,páti,pati,whether ,
+pé,9,pe,noun; pronoun,pé,pe,nine ,
+pha,,ɸə,preposition,pa,pa,of,possession
+phanú,,ɸəˈnu,verb,upanú,upanu,experience ,
+phašú,,ɸəˈʃu,verb,pasyú,pasiyu,treat; behave; act,
+phadám,,ɸəˈdam,noun,padámo,padamo,expert; professional ,
+phadú,,ɸəˈdu,verb,padú,padu,know ,
+phečú,,ɸɛˈtʃu,verb,pečú,peču,stop; cease ,
+phi,,ɸɪ,preposition,pi,pi,in; inside; within ,
+phibáso,,ɸɪˈbasɔ,noun,ipibaséo,ipibaseo,girl ,
+phícakan,,ˈɸitsəkan,noun,ipícakana,ipicaikana,field; plain; grassland ,
+phíco,,ˈɸitsɔ,preposition,píco,pico,into ,
+phidéo,,ɸɪˈdeo,noun,ipiddéo,ipidideo,boy ,
+phím,,ɸim,noun,akepím,akepim,savings; bank account,
+phimró,,ɸɪmˈɾo,noun,ípimro,ipimoro,dialect ,
+phimú,,ɸɪˈmu,verb,akepimú,akepimu,save; invest,to put money into something
+aphíŋ,,əˈɸiŋ,adjective; adverb,akepíŋ,akepiŋ,saved; invested; put into,
+iphíŋ,,ɪˈɸiŋ,adjective; adverb,ipíŋ,ipiŋ,small; simple ,
+phíŋ,,ɸiŋ,adjective; adverb,píŋ,piŋ,inner; inside ,
+phipái,,ɸɪˈpai,noun,ipipáya,ipipipaya,second ,
+phíš,,ɸiʃ,preposition,píša,pisa,among ,
+pló,,plo,preposition,paló,p'lo,near ,
+phožál,,ɸɔˈʒal,noun,pozayál,pozayal,highest rank; senior; leader; veteran ,
+phran,,ɸɾən,preposition,prán,poran,across ,
+phsám,,ɸsam,noun,pacámo,pacamo,helper; guide ,
+phsú,,ɸsu,verb,pacú,pacu,help; aid; assist ,
+phu,,ɸʊ,preposition,fu,fu,for,for a period of time
+phwágo,,ˈɸwaɡɔ,noun,wahágo,wahago,bird; kite ,
+phwái,,ɸwai,noun,waháya,wahaya,atmosphere; air; wind ,
+phwámne,,ˈɸwamnɛ,noun,wahámine,wahamine,air; gas ,
+phwáp,,ɸwap,noun,wáp,wap,caution; care ,
+phwápŋ,,ˈɸwapŋ̍,adjective; adverb,wápŋ,wap'ŋ,careful; cautious ,
+phwéko,,ˈɸwekɔ,noun,wéko,nueko,health; life ,
+phwína,,ˈɸwina,preposition,wína,wina,on ,
+phwó,,ɸwo,noun,wó,wo,world; realm; planet; Earth; universe ,
+phwódomai,,ˈɸwodɔmai,noun,wódomaye,wodomaye,metal ,
+phwódomne,,ˈɸwodɔmne,noun,wódomine,wodomine,rock; stone; solid ,
+phwófumne,,ˈɸwofʊmne,noun,wóflumine,woflumine,snow; ice ,
+phwókan,,ˈɸwokan,noun,wókana,wokana,continent,specifically Romulus
+phwómba,,ˈɸwombə,preposition,wómba,awomba,over; above ,
+phwómfle,,ˈɸwomflɛ,noun,wómfle,womb'fle,clothing ,
+phwómne,,ˈɸwomnɛ,noun,wómine,womine,creation ,"""Creation"" as a spiritual/universal concept - refers specifically to the Kamne of Kamam mythology"
+phwóxa,,ˈɸwoχa,noun,wóxak,woxak,motto; mantra; incantation  ,
+phyán,,ɸjan,noun,ipiyán,ipipaya,minute ,
+phyargáš,,ɸjəɾˈɡaʃ,noun,pyargáš,piyoargaš,lower arm; forearm ,
+íphyeke,,ˈiɸjɛke,noun,ipyébke,ipibyebke,note; fact; log; entry ,
+phyéphke,,ˈɸjeɸkɛ,noun,byébke,biyebke,information; news ,
+phyephkú,,ɸjɛɸˈku,verb,byebkú,biyebku,report; inform,
+phyó,,ɸjo,preposition; adverb; noun,pyo,piyo,down; bottom,
+phyobekú,,ɸjobɛˈku,verb,pyobyebkú,piyobiyebku,remind ,
+phyočú,,ɸjɔˈtʃu,verb,pyociyú,piyociyu,redo; repeat,
+phyóple,,ˈɸjoplɛ,noun,pyófle,piyob'fle,pants; skirt; bottoms ,
+phyokamú,,ɸjokəˈmu,verb,pyokamú,piyokamu,remake; recreate; renovate,
+phyókižl̠aš,,ˈɸjokɪʒʟaʃ,noun,pyókižl̠aš,piyokiž'l̠aš,rug; carpet ,
+phyokú,,ɸjɔˈku,verb,pyoikú,piyoiku,check; review; monitor ,
+phyonú,,ɸjɔˈnu,verb,pyonú,piyonu,replace ,
+phyóŋ,,ɸjoŋ,adjective; adverb,pyóŋ,piyoŋ,low; short ,
+phyophašú,,ɸjoɸəˈʃu,verb,pyopasyú,piyopasiyu,react ,
+phyotevú,,ɸjotɛˈvu,verb,pyotebú,piyotebu,return ,
+phyotephkú,,ɸjotɛɸˈku,verb,pyotebikú,piyotebiku,look back ,
+phyoxán,,ɸjɔˈχan,noun,pyoxán,piyoxan,floor; ground ,
+phyoxú,,ɸjɔˈχu,verb,pyoxakú,piyoxaku,respond ,
+phyoyákn,,ɸjɔˈjakn̍,adjective; adverb,pyoyákn,piyoyak'n,again ,
+phyú,,ɸju,verb,pyú,piyú,sit,
+kphí,,kɸi,noun,kpí,k'pi,nature ,
+kphíŋ,,kɸiŋ,adjective; adverb,kpíŋ,k'piŋ,natural ,
+plá,,pla,noun,plá,p'la,normalcy ,
+pláŋ,,plaŋ,adjective; adverb,pláŋ,p'laŋ,usual; usually; commonplace; normal; normally; often; oftentimes ,
+plú,,plu,verb,ipalú,ipalu,form; constitute; compose,to make up the form of something
+pó,,pɔ,preposition; adverb; noun,pói,poi,up; top; maximum; peak,
+pófle,,ˈpoflɛ,noun,póifle,poib'fle,shirt; top ,
+pókan,,ˈpokən,noun,póikana,poikana,mountain; highland ,
+póŋ,,poŋ,adjective; adverb,póiŋ,poiŋ,high; tall ,
+pótup,,ˈpotʊp,noun,poitúb,poitub,tower; skyscraper ,
+póirgaš,,ˈpoiɾɡəʃ,noun,poyargáš,poyargaš,upper arm; bicep; shoulder ,
+pšú,,pʃu,verb,bašú,bašu,surprise; impress,
+ptá,,pta,noun,aptá,ap'ta,chair; seat ,
+ptóm,,ptom,noun,aptóma,ap'toma,bench ,
+pxán,,pχan,noun,poixán,poixan,ceiling ,
+rá,,ɾa,noun,ará,ara,happiness; fun; joy ,
+rám,,ɾam,noun,rám,r̄am,type; kind; form ,
+ramník,,ɾəmˈnik,noun,raminík,r̄aminik,movie; film; video ,
+ramnú,,ɾəmˈnu,verb,raminú,r̄aminu,move,"to move oneself, not another object"
+ráŋ,,ɾaŋ,adjective; adverb,aráŋ,araŋ,happy; fun; joyful ,
+rók,,ɾok,noun,róka,r̄oka,order; peace; tranquility; forgiveness ,
+rokú,,ɾɔˈku,verb,rokú,r̄oku,forgive,to make peace
+rú,,ɾu,verb,arú,aru,please,
+ša,,ʃə,preposition,ša,ša,with ,
+sái,5,sai,noun; pronoun,sái,sai,five ,
+sákri,,ˈsakɾɪ,preposition,sákri,sakri,around,to go around something
+šakú,,ʃəˈku,verb,suyakú,suyaku,focus; concentrate; devote; commit ,
+šám,,ʃam,pronoun,šam,šamo,you,singular
+sambáfe,,səmˈbafɛ,noun,esambáffe,esambabfe,aunt ,
+sámfe,,ˈsamfɛ,noun,esámfe,esamfe,parent; guardian ,
+samféŋ,,səmˈfeŋ,adjective; adverb,esamféŋ,esamfeŋ,parental ,
+samfú,,səmˈfu,verb,esamfú,esamfu,parent; raise ,
+sámpa,,ˈsampə,noun,sámpa,sampa,gratitude; thanks; relief ,
+sampáŋ,,səmˈpaŋ,adjective; adverb,sampáŋ,sampaŋ,grateful; thankful; relieved ,
+sandífe,,sənˈdifɛ,noun,esamdíffe,esamdibfe,uncle ,
+sáŋ,,saŋ,adjective; adverb,esáŋ,esaŋ,big; large; conceptual ,
+sé,10,se,noun; pronoun,sé,se,ten ,
+secú,,sɛˈtsu,verb,secú,secu,smell ,
+sécuš,,ˈsetsʊʃ,noun,sécuš,secuš,nose ,
+šekú,,sɛˈku,verb,čaxekú,čaxeku,hurt; suffer ,
+síto,,ˈsitɔ,adjective; adverb,séito,seito,only; just; simply ,
+sétogo,,ˈsetɔɡo,conjunction,séitogo,seitogo,if; as long as; provided that; only if ,
+setóŋ,,sɛˈtoŋ,adjective; adverb,seitóŋ,seitoŋ,alone; solo ,
+ši,,ʃɪ,preposition,ši,ši,against ,
+ší,,ʃi,noun,súyi,suyi,usage; use case; state of being used ,
+šíke,,ˈʃikɛ,noun,síke,sike,ball; circle; oval ,
+šínc,,ʃints,noun,sínci,sinci,reason; intelligence ,
+šincú,,ʃɪnˈtsu,verb,sincú,sincu,think; ponder; reason ,
+šíŋ,,ʃiŋ,adjective,ším,šim,that ,
+šížŋ,,ˈʃiʒŋ̍,adjective; adverb,cíyŋ,ciy'ŋ,busy ,
+šižú,,ʃɪˈʒu,verb,ciyú,ciyu,do ,
+ška,,ʃkə,preposition,žikái,jikai,in the case of; with; for ,
+skáv,,skav,noun,skáva,s'kava,other ,
+škéŋ,,ʃkeŋ,adjective; adverb,sikéŋ,sikeŋ,round; circular ,
+ski,,ski,preposition,ski,s'ki,past ,
+skinú,,skɪˈnu,verb,eskinú,eskinu,lose ,
+škl̠áŋ,,ʃkʟaŋ,adjective; adverb,škoxáŋ,š'koxaŋ,stressed; stressful; intense ,
+škl̠ú,,ʃkʟu,verb,škoxú,š'koxu,stress out ,
+sknám,,sknam,noun,skonámo,s'konamo,author; writer; scribe ,
+sknú,,sknu,verb,skonú,s'konu,write ,
+škó,,ʃko,noun,škóx,š'kox,stress; intensity ,
+škógro,,ˈʃkoɡɾɔ,noun,škógro,š'kogr̄o,collection; library ,
+škók,,ʃkok,noun,aškóik,aškoik,system; organization ,
+škókŋ,,ʃkokŋ̍,adjective; adverb,aškóikŋ,aškoik'ŋ,systemic; organized ,
+aškl̠áŋ,,əʃˈkʟaŋ,adjective; adverb,haškoxáŋ,haš'koxaŋ,relaxed; relaxing ,
+skóŋ,,skoŋ,adjective; adverb,skóŋ,s'koŋ,written; documented ,
+skotváŋ,,skɔˈtvaŋ,adjective; adverb,eskotúbŋ,eskotub'ŋ,urban ,
+skótup,,ˈskotʊp,noun,éskotub,eskotub,city ,
+škú,,ʃku,verb,žukú,žuku,result in; cause ,
+skvámfe,,ˈskvamfɛ,noun,skavámfe,s'kavamfe,cousin ,
+skváŋ,,skvaŋ,adjective; adverb,skaváŋ,s'kavaŋ,other ,
+kvar,,kvəɾ,preposition,skivári,s'kivari,beyond ,
+skyá,,sca,noun,esgyá,esgya,most,
+skyáŋ,,scaŋ,adjective; adverb,esgyáŋ,esgyaŋ,most; mostly; largely; generally ,
+skyórŋ,,ˈscoɾŋ̍,adjective; adverb,esgyórŋ,esgyorŋ,best ,
+šnómi,,ˈʃnomɪ,noun,ešnómi,esnomi,consciousness; understanding; imagination; spirituality ,
+šnomú,,ʃnɔˈmu,verb,ešnomú,esnomu,imagine; conceptualize ,
+šnošáŋ,,ʃnɔˈʃaŋ,adjective; adverb,ešnošáŋ,esnosaŋ,sacred ,
+šnoší,,ʃnɔˈʃi,noun,ešnosí,esnosi,ceremony; ritual ,
+šnú,,ʃnu,verb,šunú,šunu,be able ,
+šó,,ʃo,noun,šó,šo,possibility ,
+šón,,ʃon,noun,šun,šun,ability ,
+šóŋ,,ʃoŋ,adjective; adverb,šóŋ,šoŋ,possible ,
+sóš,,soʃ,preposition; adverb,súša,suša,with; using; in exchange for; by ,
+šotóŋ,,ʃɔˈtoŋ,adjective; adverb,ešahotóŋ,esahotoŋ,ancient; archaic; antique ,
+spaféŋ,,spəˈfeŋ,adjective; adverb,esbafféŋ,esbabfeŋ,motherly; maternal ,
+spáŋ,,spaŋ,adjective; adverb,cepáŋ,cepaŋ,real; actual; true; genuine; literal ,
+spíro,,ˈspiɾo,adjective; adverb,spíro,supiro,still; yet ,
+spói,,spoi,noun,espói,espoi,sky ,
+spóikna,,ˈspoiknə,noun,espóikana,espoikana,heaven ,
+spoknáŋ,,spɔkˈnaŋ,adjective; adverb,espoikanáŋ,espoikanaŋ,heavenly; angelic ,
+špónš,,ʃponʃ,conjunction; adverb,sipónža,siponja,whenever; once; when,
+spú,,spu,verb,cepú,cepu,reveal; manifest ,
+štá,,ʃta,adjective; adverb,štá,ašta,already ,
+staphyú,,stəˈɸju,verb,est̄apyú,est̄aipiyu,want; desire; long,
+stép,,step,noun,estéb,esteb,journey; voyage; vacation; escape ,
+stiféŋ,,stɪˈfeŋ,adjective; adverb,esdifféŋ,esdibfeŋ,fatherly; paternal ,
+stumbátup,,stʊmˈbatʊp,noun,stúmbatub,s'tumbatub,house; home; residence,
+stumbrú,,stʊmˈbɾu,verb,stumbarú,s'tumbaru,live; reside; dwell ,
+sú,,su,verb,esú,esu,grow; expand; enlarge ,
+šú,,ʃu,verb,suyú,suyu,use; consume,"also ""to take one's time"", literally to ""use/consume"" time"
+své,,sve,adjective; adverb,súve,suve,like; similar to; such as ,
+svíš,,sviʃ,preposition,sivíš,siviš',about; regarding; concerning ,
+šwéko,,ˈʃwekɔ,noun,ešwéko,esnueko,life; existence ,
+šwekóŋ,,ʃwɛˈkoŋ,adjective; adverb,ešwekóŋ,esnuekoŋ,alive; living ,
+šwekú,,ʃwɛˈku,verb,ešwekú,esnueku,live,to be alive
+swórŋ,,ˈswoɾŋ̍,adjective; adverb,ecwórŋ,ecuorŋ,worst ,
+šyá,,ʃja,noun,aškyá,aškiya,schedule; routine; agenda ,
+táčla,,ˈtatʃlə,noun,tatúšla,tatušla,needle,any piercing or stabbing object
+tačlú,,tətʃˈlu,verb,tatušlú,tatušlu,pierce; stab; penetrate ,
+tadiváš,,tadɪˈvaʃ,adjective; adverb,tadibáš,tadibaš',afterwards ,
+t̄ái,3,θai,noun; pronoun,t̄ái,t̄ai,three ,
+t̄alámŋ,,θəˈlamŋ̍,adjective; adverb,t̄alámŋ,t̄alam'ŋ,soft; gentle ,
+t̄ám,,θam,pronoun,t̄am,t̄amo,we; us ,
+t̄án,,θan,noun,tehán,tehan,death ,
+t̄anú,,θəˈnu,verb,tehanú,tehanu,die,
+t̄aphibú,,θaɸɪˈbu,verb,tehapibú,tehapibu,exit; leave; go out; come out ,
+taphyá,,təˈɸja,adjective; adverb,tabyá,tabiya,later ,
+t̄aphyú,,təˈɸju,verb,t̄apyú,t̄aipiyu,want ,
+tatú,,təˈtu,verb,tatú,tatu,poke; prod ,
+t̄é,8,θe,noun; pronoun,t̄é,t̄e,eight ,
+tebtú,,tɛbˈtu,verb,tebutú,tebutu,attend; go ,
+tékra,,ˈtekɾə,noun,tékra,tek'ra,pursuit ,
+tekrú,,tɛˈkɾu,verb,tekrú,tek'ru,pursue; hunt; chase ,
+tenú,,tɛˈnu,verb,otenú,otenu,function; work; operate ,
+tenučú,,tenʊˈtʃu,verb,otenučú,otenuju,activate; turn on; start up ,
+téŋka,,ˈteŋkə,noun,ténka,tenka,shape; outline,
+tép,,tep,noun,téb,teb,trip; voyage ,
+tephyú,,tɛˈɸju,verb,tepoyú,tepoyu,rise ,
+tephiváŋa,,teɸɪˈvaŋə,interjection,tepibáŋa,tepibaŋa,welcome; come in,
+tephivú,,teɸɪˈvu,verb,tepibú,tepibu,enter; go in; come; arrive ,
+tepravú,,tepɾəˈvu,verb,tepirabú,tepirabu,bring ,
+tevkú,,tɛvˈku,verb,tebikú,tebiku,visit,
+tévšla,,ˈtevʃlə,noun,tebayúšla,tebayušla,dart ,
+tevšú,,tɛvˈʃu,verb,tebušú,tebušu,walk ,
+tevú,,tɛˈvu,verb,tebú,tebu,go; travel ,
+tévuš,,ˈtevʊʃ,noun,tebúš,tebuš,leg ,
+tevyú,,tɛvˈju,verb,tebayú,tebayu,fly; float; levitate ,
+ti,,tɪ,preposition,ti,ti,to ,
+t̄í,,θi,conjunction,t̄i,t̄i,so; therefore; as a result ,
+tók,,tok,adjective,tóko,toko,all; every; each ,
+tokói,,tɔˈkoi,adjective; adverb,tokóya,tokoya,always ,
+tokómfle,,tɔˈkomflɛ,noun,tokómfle,tokob'fle,outfit ,
+tokórŋ,,tɔˈkoɾŋ̍,adjective; adverb,tokórŋ,tokor'ŋ,alright; okay,
+tokóvša,,tɔˈkovʃə,noun,tokóvša,tokovša,togetherness; unity; company; community; combination; connection ,
+tokvimnú,,tokvɪmˈnu,verb,tokovinamú,tokovinamu,gather; congregate; organize ,
+tokvinám,,tokvɪˈnam,noun,tokovinámo,tokovinamo,gathering; congregation; society; civilization ,
+tokvošám,,tokvɔˈʃam,noun,tokovšámo,tokovšamo,wedding; couple ,married couple
+tokvošáŋ,,tokvɔˈʃaŋ,adjective; adverb,tokovšáŋ,tokovšaŋ,together; united ,
+tokvošú,,tokvɔˈʃu,verb,tokovšú,tokovšu,combine; join,
+t̄óm,,θom,noun,t̄ómo,t̄omo,apology ,
+t̄omrú,,θɔmˈɾu,verb,t̄oamrú,t̄oamoru,translate ,
+t̄omú,,θɔˈmu,verb,t̄omú,t̄omu,apologize ,
+tonyákŋ,,tɔˈɲakŋ̍,adjective,tonyáko,toniyako,some ,
+t̄onžú,,θɔnˈʒu,verb,t̄onožú,t̄onožu,realize ,
+t̄ópa,,ˈθopə,conjunction,t̄ópa,t̄opa,while; during; as; when; at,at the time of
+tór,,toɾ,noun,tór,tor',pole; stand; tripod ,
+t̄ošéŋ,,θɔˈʃeŋ,adjective; adverb,t̄ošéŋ,t̄ošeŋ,enough ,
+t̄óskva,,ˈθoskvə,conjunction,t̄óskava,t̄oskava,whereas ,
+t̄otíš,,θɔˈtiʃ,noun,t̄otíž,t̄otiž',effect; result; consequence; influence ,
+t̄otížŋ,,θɔˈtiʒŋ,adjective; adverb,t̄otížŋ,t̄otiž'ŋ,affected; influenced ,
+t̄otižú,,θotɪˈʒu,verb,t̄otižú,t̄otižu,affect; influence ,
+tóp,,top,noun,túb,tub,building ,
+tvára,,ˈtvaɾə,noun,tabáira,tabaira,color ,
+t̄wáf,,θwaf,noun,t̄owáv,t̄owav,change ,
+t̄wáš,,θwaʃ,noun,t̄owáž,t̄owaž,effect; result ,
+t̄wativú,,θwatɪˈvu,verb,t̄owativú,t̄owativu,become ,
+t̄wavú,,θwəˈvu,verb,t̄owavú,t̄owavu,change ,
+t̄wažú,,θwəˈʒu,verb,t̄owažú,t̄owažu,affect ,
+t̄yám,,θjam,noun,t̄ayám,t̄ayam,right ,
+t̄yó,,θjo,noun,ot̄yó,ot̄iyo,smile ,
+t̄yóš,,θjoʃ,noun,ot̄yóš,ot̄iyoš,mouth ,
+t̄yú,,θju,verb,ot̄yú,ot̄iyu,smile ,
+ú,,u,verb,ú,u,be ,
+úča,,ˈutʃə,noun,úč,uj,start; beginning ,
+účŋ,,ˈutʃŋ̍,adjective; adverb,účŋ,uj'ŋ,first; initial ,
+učú,,ʊˈtʃu,verb,učú,uju,start; begin ,
+ulá,,ʊˈla,noun,úla,ula,moon ,
+va,,və,preposition,va,va,from; of; by ,
+vác,,vats,noun,bác,abac',push,
+vák,,vak,noun,vák,vak',organization; comittee ,
+vakáŋ,,vəˈkaŋ,adjective; adverb,avkáŋ,abv'k'ŋ,political; governmental; administrative ,
+vakú,,vəˈku,verb,avkú,abv'ku,govern; lead,
+ván,,van,noun,aván,aban,plan; strategy,
+váŋ,,vaŋ,adjective; adverb,aváŋ,abaŋ,planned; prepared,
+vasá,,vaˈsa,noun,avasá,avasa,importance; significance; meaning; value; worth ,
+vasáŋ,,vəˈsaŋ,adjective; adverb,avasáŋ,avasaŋ,important; significant; meaningful ,
+vast̄ú,,vəsˈθu,verb,vast̄ú,vast̄u,heal ,
+vasú,,vəˈsu,verb,avasú,avasu,mean; signify; represent; matter,"to stand for, to mean something"
+venyán,,vɛˈɲan,noun,venyán,venyan,complexity; detail; nuance ,
+vlorú,,vlɔˈɾu,verb,avalorú,abaloru,advise; suggest,
+vlói,,ˈvloi,noun,avalóya,abaloya,year,
+vlú,,vlu,verb,avalú,abalu,prove,
+vronóš,,vɾɔˈnoʃ,noun,bronóž,b'r̄onož',understanding; comprehension ,
+vronóžŋ,,vɾɔˈnozŋ̍,adjective; adverb,bronóžŋ,b'r̄onož'ŋ,understood ,
+vronožú,,vɾonɔˈʒu,verb,bronožú,b'r̄onožu,understand; comprehend,
+vužú,,vʊˈʒu,verb,vužú,vužu,buzz; hum ,
+wayú,,wəˈju,verb,wahayú,wahayu,blow ,
+wekín,,wɛˈkin,noun,wekín,nuekin,medicine; health ,
+wekíŋ,,wɛˈkiŋ,adjective; adverb,wekíŋ,nuekiŋ,medical ,
+wodóŋ,,wɔˈdoŋ,adjective; adverb,wodóŋ,wodoŋ,hard; solid ,
+woflú,,wɔˈflu,verb,woflú,woflu,freeze; snow ,
+woxánč,,wɔˈχantʃ,noun,wohánč,wohanj,cliff; bluff; edge ,
+wokái,,wɔˈkai,noun,bokái,bokai,mark; stain; smudge ,
+wolé,,wɔˈle,noun,wóle,wole,box; square; rectangle ,
+woléŋ,,wɔˈleŋ,adjective; adverb,woléŋ,woleŋ,square; rectangular ,
+phwóm,,ɸwom,noun,awóm,awomba,covering; layer; clothing,
+phwómaš,,ˈɸwoməʃ,noun,awómaš,awombaš,skin ,
+wombú,,wɔmˈbu,verb,awombú,awombu,cover; wrap,
+wompítam,,wɔmˈpitəm,noun,wombipítama,wombipitama,closet ,
+xavekú,,χavɛˈku,verb,xabyebkú,xabyebku,announce; state ,
+xádo,,ˈχadɔ,noun,xákdob,xakdob,military ,
+xák,,χak,noun,xák,xak,speech; words; story; tale; communication ,
+xákŋ,,ˈχakŋ̍,adjective; adverb,xákŋ,xak'ŋ,spoken ,
+xakoxú,,χakɔˈχu,verb,xakyohú,xakyohu,argue; dispute ,
+xakú,,χəˈku,verb,xakú,xaku,say; tell; speak ,
+xákya,,ˈχacə,noun,xákya,xakya,fight; conflict; tension; war ,
+xakyú,,χəˈcu,verb,xakyú,xakyu,attack; fight; offend ,
+xálfle,,ˈχalflɛ,noun,xálaffle,xalab'fle,blanket; bed cover ,
+xalflú,,χəlˈflu,verb,xalafflú,xalab'flu,blanket ,
+xambórŋ,,χəmˈboɾŋ̍,interjection,xambórŋ,xambiyor'ŋ,good day; good afternoon,
+xambráŋ,,χəmˈbɾaŋ,adjective; adverb,xambaráŋ,xambairaŋ,yellow ,
+xámi,,ˈχamɪ,noun,xámbi,xambi,sun ,
+xámpya,,ˈχampjə,noun,xámbya,xambiya,day ,
+xampyáŋ,,χəmˈpjaŋ,adjective; adverb,xambyáŋ,xambiyaŋ,daytime ,
+xán,,χan,adverb,xán,xan,no ,
+xapófle,,χəˈpoflɛ,noun,xapóifle,xapoifle,coat; jacket; sweater ,
+xatvínbra,,χətˈvinbɾə,noun,xatovínaburai,xatovinaburai,military base; headquarters; base of operations ,
+xáx,,χaχ,interjection,xáx,xax,shit; fuck,general expletive for when upset or frustrated
+xaláŋ,,χəˈlaŋ,adjective; adverb,xaláŋ,xalaŋ,warm ,
+xó,,χo,noun,axó,axo,origin; source; base ,
+xóca,,ˈχotsə,noun,axócai,axocai,root ,
+xočón,,χɔˈtʃon,noun,xočón,xočon,problem ,
+xofú,,χɔˈfu,verb,xofú,xofu,should; must ,
+xoknóŋ,,χɔkˈnoŋ,adjective; adverb,xokonóŋ,xokonoŋ,tainted; poisoned; ruined ,
+xón,,χon,noun,xón,xon,sound ,
+xonák,,χɔˈnak,noun,xonák,xonak,music ,
+xonfít̄,,χɔnˈfiθ,noun,xonafít̄,xonafit̄,musical note ,
+xoníphimro,,χɔˈniɸɪmɾo,noun,xonípimro,xonipimoro,accent ,
+xont̄yú,,χɔnˈθju,verb,xonot̄yú,xonot̄iyu,laugh ,
+xonú,,χɔˈnu,verb,xonú,xonu,hear; listen ,
+xonúš,,χɔˈnuʃ,noun,xónuš,xonuš,ear ,
+xóŋ,,χoŋ,adjective; adverb,axóŋ,axoŋ,original; native; indigenous ,
+xoŋkám,,χɔŋˈkam,noun,xonakámo,xonakamo,musician ,
+xoŋkíčke,,χɔŋˈkitʃkɛ,noun,xonakíčke,xonakičike,musical instrument ,
+xórva,,ˈχoɾvə,conjunction; adjective; adverb,xóruba,xoruba,although; even; despite; while ,
+xwá,,χwa,noun,xwá,xua,both; neither ,
+yafít̄,,jəˈfiθ,noun,yafít̄,uyafit̄,frequency ,
+akášŋ,,əˈkaʃŋ̍,adjective; adverb,hayakášŋ,hay'kaš'ŋ,far,"far in time, as in far past or far future"
+yakášŋ,,jəˈkaʃŋ̍,adjective; adverb,yakášŋ,yakaš'ŋ,close,close in time
+yákn,,ˈjakn,noun,yákn,yak'n,time ,
+yalátama,,jəˈlatəma,noun,yalátama,iyalatama,kitchen ,
+yám,,jam,noun,yám,yam,effort; attempt; test ,
+yamú,,jəˈmu,verb,yamú,yamu,try; attempt ,
+yánaš,,ˈjanəʃ,noun,yánaš,iyanaš,stomach; abdomen ,
+yáne,,ˈjanɛ,conjunction,yane,yane,but; however; yet ,
+yánlagan,,ˈjanləɡan,noun,yánalagan,yanalagan,ab; abdominal muscle ,
+yánlatama,,ˈjanlatəma,noun,yanulátama,iyanulatama,dining room ,
+yanú,,jəˈnu,verb,yanú,iyanu,eat ,
+yáŋ,,jaŋ,adjective; adverb,yáŋ,iyaŋ,hungry ,
+yasám,,jəˈsam,noun,yasámi,yasami,respect; dignity ,
+yavú,,jəˈvu,verb,yabú,yabu,like; enjoy,to be attracted to
+yékra,,ˈjekɾə,noun,yékra,yek'ra,South ,
+yúkra,,ˈjukɾə,noun,yúkra,yuk'ra,North ,
+žál,,ʒal,noun,zayál,zayal,level; rank; grade; degree ,
+zékra,,ˈzekɾə,noun,zékra,zek'ra,West ,
+žéma,,ˈʒemə,conjunction,žéma,žema,because; since; as ,
+žík,,ʒik,preposition; conjunction,ažík,ažik,until,
+žl̠áš,,ʒʟaʃ,noun,žl̠áš,ž'l̠aš',hair; fur ,
+žúko,,ˈʒukɔ,noun,žúko,žuko,reason; cause ,
+zúkra,,ˈzukɾə,noun,zúkra,žuk'ra,East ,
+zúŋ,,zuŋ,adjective,zum,zum,this ,
+,,,pronoun,xam,xamo,you,archaic second person plural pronoun. Phased out after Middle Ammro
+,,,,,,,
+,,,,,,,
+,,,,,,,

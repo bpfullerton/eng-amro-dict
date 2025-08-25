@@ -134,7 +134,7 @@ Follow these steps to run the project locally.
 
 ### API & Database Information
 
-The only third-party API this app uses is the Merriam-Webster Collegiate Dictionary API, used for seeding the database and establishing connections between Amro words and English words. The English word database was initially seeded upon publishing this app, so future API requests will only be necessary when updates are needed to the database. **If you would like to make changes/contribute to the database, please contact me first.** Here are instructions for setting up the API, which you should do along with installation.
+The only third-party API this app uses is the Merriam-Webster Collegiate Dictionary API, used for seeding the database and establishing connections between Amro words and English words. The English word database was initially seeded upon publishing this app, so future API requests will only be necessary when updates are needed to the database. **If you would like to make changes/contribute to the database, please contact me.** Here are instructions for setting up the API, which you should do along with installation.
 1. Get a free API Key at [Merriam-Webster Developer Center](https://dictionaryapi.com/register/index), selecting "Collegiate Dictionary" under "Request API Key (1)".
 2. Add your API key in `config.js`
    ```js

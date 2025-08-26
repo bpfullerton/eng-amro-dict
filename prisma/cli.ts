@@ -30,6 +30,13 @@ try {
         await relink();
         break;
 
+      case 'seed':
+        await seedAmro();
+        await seedEng();
+        await manual();
+        await relink();
+        break;
+
       case 'seed-english':
         await seedEng();
         await manual();

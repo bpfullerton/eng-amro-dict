@@ -2,6 +2,8 @@ import Prisma from '@prisma/client';
 import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
+import { MWEntry } from '../../types/mw_entry';
+import { MWAPIResponse } from '../../types/mw';
 
 const prisma = new Prisma.PrismaClient();
 const MW_API_KEY = process.env.MW_API_KEY;
@@ -13,7 +15,7 @@ type Definition = {
     prn: string;
     partOfSpeech: string;
     example: string;
-    et: any[];
+    et: [];
 };
 
 // Extract meanings from CSV meaning field
@@ -43,7 +45,7 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
 
   try {
     const { data } = await axios.get(url);
-    const entries = await data.filter((entry: any) => entry.meta 
+    const entries = await data.filter((entry: MWAPIResponse) => entry.meta 
                                                 && entry.shortdef.length > 0 
                                                 && entry.meta.id.includes(word));
     if (!entries || entries.length === 0) {
@@ -52,12 +54,12 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
       return [];
     }
 
-    return entries.map((entry: any) => ({
+    return entries.map((entry: MWEntry) => ({
       id: entry.meta.id,
       word: entry.hwi.hw.replace(/\*/g, '').trim(),
       prn: entry.hwi.prs?.[0]?.mw || '',
       partOfSpeech: entry.fl || '',
-      example: entry.def?.[0]?.sseq?.[0]?.[0]?.dt?.[0]?.[1] || '',
+      example: entry.def?.[0]?.sseq?.[0]?.[0]?.[1]?.dt?.[0]?.[1]?.[1]?.[0]?.t || '',
       et: entry.et || [],
     }));
   } catch (error) {

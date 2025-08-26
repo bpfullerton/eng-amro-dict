@@ -1,11 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
+//import { PrismaClient } from '@prisma/client';
 
 // Define the API key and Prisma client
 if (!process.env.MW_API_KEY) {
   throw new Error('Missing MW_API_KEY');
 }
-const prisma = new PrismaClient();
+//const prisma = new PrismaClient();
 const MW_API_KEY = process.env.MW_API_KEY as string;
 
 // API handler to fetch word definitions from the Merriam-Webster API

@@ -1,12 +1,13 @@
 'use client'
 
+import { AmroWord, EnglishWord } from '@prisma/client';
 // pages/test.tsx
 import { useState } from 'react';
 
 export default function TestMW() {
   // State variables
   const [word, setWord] = useState(''); // Input word for lookup
-  const [results, setResults] = useState<any[]>([]); // Returned list of definitions
+  const [results, setResults] = useState<(AmroWord | EnglishWord)[]>([]); // Returned list of definitions
   const [loading, setLoading] = useState(false); // Loading state (shows loading spinner if true)
   const [error, setError] = useState(''); // Error message
 
@@ -32,7 +33,7 @@ export default function TestMW() {
         // If the response is successful, parse the JSON data
       const data = await res.json();
       setResults(data);
-    } catch (err: any) {
+    } catch (err) {
       // If an error occurs, set the error state
       if (err instanceof Error) {
         setError('Failed to fetch definition.');
@@ -68,19 +69,27 @@ export default function TestMW() {
       <div className="space-y-6">
         {results.map((entry, index) => (
           <div key={index} className="border rounded p-4 shadow-sm">
-            <h2 className="text-xl font-semibold">{entry.word || entry.asr}</h2>
-            {entry.cecamro && <p className="font-cecamro text-xl">{entry.cecamro}</p>}
-            {entry.ipa && <p><strong>IPA:</strong> /{entry.ipa}/</p>}
-            {entry.prn && (
+            <h2 className="text-xl font-semibold">
+              {'word' in entry ? entry.word : entry.asr}
+            </h2>
+            {'cecamro' in entry && entry.cecamro && (
+              <p className="font-cecamro text-xl">{entry.cecamro}</p>
+            )}
+            {'ipa' in entry && entry.ipa && <p><strong>IPA:</strong> /{entry.ipa}/</p>}
+            {'prn' in entry && entry.prn && (
               <p>
                 <strong>Pronunciation:</strong> {entry.prn}
               </p>
             )}
             {entry.partOfSpeech && <p><strong>Part of Speech:</strong> {entry.partOfSpeech}</p>}
-            {entry.example && <p><strong>Example:</strong> {entry.example}</p>}
-            {entry.ex_amro && entry.ex_english && <p><strong>Example:</strong> {entry.ex_amro} = <em>{entry.ex_english}</em></p>}
-            {entry.etymology && (<p><strong>Etymology:</strong> {JSON.stringify(entry.etymology)}</p>)}
-            {entry.var_middle && entry.var_old && (
+            {'example' in entry && entry.example && <p><strong>Example:</strong> {entry.example}</p>}
+            {'ex_amro' in entry && 'ex_english' in entry && entry.ex_amro && entry.ex_english && (
+              <p><strong>Example:</strong> {entry.ex_amro} = <em>{entry.ex_english}</em></p>
+            )}
+            {'et' in entry && entry.et && (
+              <p><strong>Etymology:</strong> {entry.et}</p>
+            )}
+            {'var_middle' in entry && 'var_old' in entry && entry.var_middle && entry.var_old && (
               <p>From Middle Ámmro <em>{entry.var_middle}</em>, Old Amomoro <em>{entry.var_old}</em></p>
             )}
           </div>

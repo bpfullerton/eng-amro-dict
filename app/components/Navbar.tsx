@@ -2,13 +2,22 @@
 'use client';
 
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 
 export default function Navbar() {
+  const pathname = usePathname();
+  
   return (
     <nav className="w-full border-b px-6 py-4 flex justify-between items-center bg-black shadow-sm">
       <div className="flex gap-6 items-center">
-        <Link href="/" className="text-lg font-semibold hover:text-blue-600 transition">Home</Link>
-        <Link href="/about" className="text-lg font-semibold hover:text-blue-600 transition">About Ámro</Link>
+        {pathname !== '/' && (
+          <Link href="/" className="text-lg font-semibold hover:text-blue-600 transition">Word Search</Link>
+        )}
+
+        {pathname !== '/about' && (
+          <Link href="/about" className="text-lg font-semibold hover:text-blue-600 transition">About Ámro</Link>
+        )}
+        
       </div>
 
       <a

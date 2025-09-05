@@ -36,7 +36,7 @@ export default function TestMW() {
     } catch (err) {
       // If an error occurs, set the error state
       if (err instanceof Error) {
-        setError('Failed to fetch definition.');
+        setError('Oops, looks like we couldn\'t find that word in our dictionary. Please try another one.');
       }
       console.error(err);
     } finally {
@@ -46,11 +46,12 @@ export default function TestMW() {
 
   return (
     <div className="max-w-xl mx-auto mt-12 px-4">
-      <h1 className="text-2xl font-bold mb-4">English-Amro Bilingual Dictionary</h1>
+      <h1 className="text-2xl font-bold mb-4">Welcome to the English-Ámro Bilingual Dictionary!</h1>
+      <h6 className="text-lg mb-4">Enter an English or Ámro word to search for its definition.</h6>
       <form onSubmit={handleSubmit} className="flex gap-2 mb-6">
         <input
           type="text"
-          placeholder="Enter an English or Amro word"
+          placeholder="Enter an English or Ámro word"
           value={word}
           onChange={(e) => setWord(e.target.value)}
           className="border p-2 rounded w-full"
@@ -69,19 +70,27 @@ export default function TestMW() {
       <div className="space-y-6">
         {results.map((entry, index) => (
           <div key={index} className="border rounded p-4 shadow-sm">
-            <h2 className="text-xl font-semibold">
-              {'word' in entry ? entry.word : entry.asr}
-            </h2>
-            {'cecamro' in entry && entry.cecamro && (
-              <p className="font-cecamro text-xl">{entry.cecamro}</p>
-            )}
-            {'ipa' in entry && entry.ipa && <p><strong>IPA:</strong> /{entry.ipa}/</p>}
+            <div className="flex items-baseline gap-4 mb-2">
+              <h2 className="text-xl font-semibold">
+                {'word' in entry ? entry.word : entry.asr}
+              </h2>
+              <span className="font-cecamro text-xl">
+                {'cecamro' in entry && entry.cecamro ? entry.cecamro : ''}
+              </span>
+            </div>
+
+            {'ipa' in entry && entry.ipa && <span>/{entry.ipa}/</span>}
             {'prn' in entry && entry.prn && (
               <p>
                 <strong>Pronunciation:</strong> {entry.prn}
               </p>
             )}
-            {entry.partOfSpeech && <p><strong>Part of Speech:</strong> {entry.partOfSpeech}</p>}
+            {'meaning' in entry && entry.meaning && entry.partOfSpeech && (
+              <p>
+                <strong>{entry.partOfSpeech}</strong> - {entry.meaning}
+              </p>
+            )}
+
             {'example' in entry && entry.example && <p><strong>Example:</strong> {entry.example}</p>}
             {'ex_amro' in entry && 'ex_english' in entry && entry.ex_amro && entry.ex_english && (
               <p><strong>Example:</strong> {entry.ex_amro} = <em>{entry.ex_english}</em></p>

@@ -41,8 +41,7 @@
     <br />
     <a href="https://github.com/bpfullerton/eng-amro-dict"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/bpfullerton/eng-amro-dict">View Demo</a>
+    <a href="https://eng-amro-dict.vercel.app/">View Demo</a>
     &middot;
     <a href="https://github.com/bpfullerton/eng-amro-dict/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;

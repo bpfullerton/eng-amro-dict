@@ -1,9 +1,10 @@
+// prisma/scripts/seedAmro.ts
+
 import { PrismaClient } from '@prisma/client';
 import fs from 'fs';
 import path from 'path';
 import Papa from 'papaparse'; // Ensure you have papaparse installed
 
-// Ensure you have the Prisma Client installed and configured
 const prisma = new PrismaClient();
 
 // Define the type for the CSV rows
@@ -19,6 +20,10 @@ type AmroCsvRow = {
   meaning?: string;
 };
 
+/**
+ * Seed Amro words from the amro.csv file into the database.
+ * @returns Promise<void>
+ */
 export async function seedAmro() {
   console.log('Seeding Amro words...');
 

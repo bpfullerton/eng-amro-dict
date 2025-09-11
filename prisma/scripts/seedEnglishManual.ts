@@ -6,6 +6,9 @@ import path from 'path';
 
 const prisma = new PrismaClient();
 
+/**
+ * Seed unmatched English phrases manually from logs/missed-words.txt
+ */
 export async function manual() {
   console.log('Seeding unmatched English phrases manually...');
   

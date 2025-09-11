@@ -1,5 +1,9 @@
 // app/about/page.tsx
 
+/**
+ * AboutAmro component
+ * @returns A React component for the About Ámro page, providing information about the Ámro language, its background, and resources.
+ */
 export default function AboutAmro() {
   return (
     <main className="prose mx-auto px-4 py-8 space-y-6">
@@ -98,8 +102,13 @@ export default function AboutAmro() {
 
       <h2>Resources</h2>
       <ul>
-        <li><a href="/docs/phonology.pdf" target="_blank">Phonology (PDF)</a></li>
-        <li><a href="https://example.com" target="_blank" rel="noopener noreferrer">External Resource</a></li>
+        <li><a 
+        href="../../public/AmroPhonology.pdf" 
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          Ámro Phonology & Alphabets (PDF) ↗
+        </a></li>
       </ul>
 
     </main>

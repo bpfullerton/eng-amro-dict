@@ -1,9 +1,12 @@
+// prisma/scripts/relink.ts
+
 import { PrismaClient } from '@prisma/client';
 
 const prisma = new PrismaClient();
 
+// COPIED CODE FROM seedEnglish.ts - refactor this later ----------------------
+
 // Extract meanings from CSV meaning field
-// COPIED CODE FROM seedEnglish.ts - refactor this later
 function extractMeanings(meanings: string): string[] {
     return meanings
     .split(';') // Split by semicolon
@@ -19,8 +22,13 @@ function extractPartsOfSpeech(posRaw: string): string[] {
     .filter(Boolean);
 }
 
-export async function relink() {
-  console.log('Re-linking Amro ↔ English translations...');
+// End of copied code ---------------------------------------------------------
+
+/**
+ * Re-link Amro words to English words based on meanings and parts of speech.
+ */
+export async function link() {
+  console.log('Linking Amro ↔ English translations...');
 
   // Clear existing data in the amroEnglishMap table if it exists
   if (!(await prisma.amroEnglishMap.count()) || (await prisma.amroEnglishMap.count()) === 0) {
@@ -37,7 +45,7 @@ export async function relink() {
     },
   });
 
-  let relinked = 0;
+  let linked = 0;
 
   for (const amro of amroWords) {
     // Extract meanings and parts of speech from the Amro word
@@ -69,18 +77,18 @@ export async function relink() {
             partOfSpeech: amro.partOfSpeech ?? null,
           },
         });
-        console.log(`Re-linked Amro word "${amro.asr}" with English word "${english.word}"`);
-        relinked++;
+        console.log(`Linked Amro word "${amro.asr}" with English word "${english.word}"`);
+        linked++;
       }
     }
   }
 
-  console.log(`✅ Re-linked ${relinked} translation entries.`);
+  console.log(`✅ Linked ${linked} translation entries.`);
   await prisma.$disconnect();
 }
 
 if (require.main === module) {
-  relink().catch((err) => {
+  link().catch((err) => {
     console.error('❌ Error re-linking:', err);
     prisma.$disconnect();
     process.exit(1);

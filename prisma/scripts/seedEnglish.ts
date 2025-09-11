@@ -1,3 +1,5 @@
+// prisma/scripts/seedEnglish.ts
+
 import Prisma from '@prisma/client';
 import axios from 'axios';
 import fs from 'fs';
@@ -8,7 +10,7 @@ import { MWAPIResponse } from '../../types/mw';
 const prisma = new Prisma.PrismaClient();
 const MW_API_KEY = process.env.MW_API_KEY;
 
-// Define the type for the definition object
+// Define parameters for a database definition
 type Definition = {
     id: string;
     word: string;
@@ -26,7 +28,7 @@ function extractMeanings(meanings: string): string[] {
     .filter(m => m); // Filter out empty strings
 }
 
-// Utility: parse a parts-of-speech field like "verb; noun"
+// Parse the parts-of-speech field by semicolon, turning it into an array of strings
 function extractPartsOfSpeech(posRaw: string): string[] {
   return posRaw
     .split(';')
@@ -34,13 +36,18 @@ function extractPartsOfSpeech(posRaw: string): string[] {
     .filter(Boolean);
 }
 
-// Fetch the definitions for a word from the API
+/**
+ * Fetch the definitions for a word from the API
+ * @param word The word to fetch the definition for
+ * @returns A promise that resolves to an array of Merriam-Webster definitions
+ */
 async function fetchDefinition(word: string): Promise<Definition[]> {
   if (!MW_API_KEY) {
     console.error('MW_API_KEY is not set');
     return [];
   }
 
+  // Pass word and API key as query parameters
   const url = `https://www.dictionaryapi.com/api/v3/references/collegiate/json/${word}?key=${MW_API_KEY}`;
 
   try {
@@ -49,7 +56,7 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
                                                 && entry.shortdef.length > 0 
                                                 && entry.meta.id.includes(word));
     if (!entries || entries.length === 0) {
-      // Add warning to logs/missing-words.txt
+      // Add word to logs/missing-words.txt if there are no associated definitions
       fs.appendFileSync(path.join(__dirname, 'logs', 'missing-words.txt'), `${word}\n`);
       return [];
     }
@@ -68,6 +75,9 @@ async function fetchDefinition(word: string): Promise<Definition[]> {
   }
 }
 
+/**
+ * Seed the EnglishWord table with definitions from the Merriam-Webster API
+ */
 export async function seedEng() {
   console.log('Seeding English words...');  
   

@@ -5,7 +5,7 @@
   --foreground: #0C0910;
   --accent: #82667F;
   --accent-secondary: #B486AB;
-  --link-hover: #83B692;
+  --link-hover: #577961;
   --nav-background: #A5A9B6;
 }
 
@@ -22,6 +22,7 @@
     --background: #0C0910;
     --foreground: #EEF0F2;
     --nav-background: #1D1627;
+    --link-hover: #83B692;
   }
 }
 
@@ -76,7 +77,6 @@ button:hover {
 nav {
   background-color: var(--nav-background);
   color: var(--background);
-  padding: 1rem;
 }
 
 a {

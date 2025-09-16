@@ -93,9 +93,9 @@ export default function AboutAmro() {
       </p>
       <h3>Example Sentences</h3>
       <ul>
-        <li><span className="font-cecamro"> .</span> = Ór tišám. = Hello.</li>
-        <li><span className="font-cecamro">.</span> = Orór. = Hi. (more casual/colloquial)</li>
-        <li><span className="font-cecamro">  .</span> = Čón baml̠akár ún. = My name is Jon.</li>
+        <li><span className="font-cecamro"> .</span> = Ór tišám. = Hello.</li>
+        <li><span className="font-cecamro">.</span> = Orór. = Hi. (more casual/colloquial)</li>
+        <li><span className="font-cecamro">  .</span> = Čón baml̠akár ún. = My name is Jon.</li>
       </ul>
 
       <hr className="my-8 border-gray-300" />
@@ -103,7 +103,7 @@ export default function AboutAmro() {
       <h2>Resources</h2>
       <ul>
         <li><a 
-        href="../../public/AmroPhonology.pdf" 
+        href="/AmroPhonology.pdf" 
         target="_blank"
         rel="noopener noreferrer"
         >
